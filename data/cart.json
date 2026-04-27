@@ -69,7 +69,7 @@
           "available": true,
           "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg"
         },
-        "quantity": 1,
+        "quantity": 3,
         "addedAt": "2026-04-27T05:36:56.674Z"
       },
       {
@@ -133,8 +133,8 @@
         "addedAt": "2026-04-27T05:51:41.660Z"
       }
     ],
-    "totalItems": 5,
-    "totalAmount": 1170,
-    "updatedAt": "2026-04-27T05:51:41.660Z"
+    "totalItems": 7,
+    "totalAmount": 1730,
+    "updatedAt": "2026-04-27T05:51:51.121Z"
   }
 ]
