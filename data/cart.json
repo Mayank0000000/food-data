@@ -91,10 +91,30 @@
         },
         "quantity": 1,
         "addedAt": "2026-04-27T05:37:01.643Z"
+      },
+      {
+        "id": 1777269083277,
+        "menuItem": {
+          "id": 2,
+          "name": "Chicken Wrap",
+          "category": "Main Course",
+          "veg": false,
+          "price": 300,
+          "rating": [],
+          "feedback": [],
+          "prepTime": "35",
+          "discount": 0,
+          "dishInfo": "Grilled chicken breast wrapped in soft tortilla with fresh lettuce, tomatoes, onions and our special sauce.",
+          "reviews": 0,
+          "available": true,
+          "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg"
+        },
+        "quantity": 1,
+        "addedAt": "2026-04-27T05:51:23.277Z"
       }
     ],
-    "totalItems": 2,
-    "totalAmount": 630,
-    "updatedAt": "2026-04-27T05:37:01.643Z"
+    "totalItems": 3,
+    "totalAmount": 930,
+    "updatedAt": "2026-04-27T05:51:23.277Z"
   }
 ]
