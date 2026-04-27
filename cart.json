@@ -20,12 +20,12 @@
           "available": true,
           "image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg"
         },
-        "quantity": 1,
+        "quantity": 2,
         "addedAt": "2026-04-27T05:31:06.749Z"
       }
     ],
-    "totalItems": 1,
-    "totalAmount": 120,
-    "updatedAt": "2026-04-27T05:31:06.749Z"
+    "totalItems": 2,
+    "totalAmount": 240,
+    "updatedAt": "2026-04-27T05:31:41.296Z"
   }
 ]
