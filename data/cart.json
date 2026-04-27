@@ -2,31 +2,10 @@
   {
     "userId": "1776936153936",
     "userName": "mayank",
-    "items": [
-      {
-        "id": 1777268130407,
-        "menuItem": {
-          "id": 2,
-          "name": "Chicken Wrap",
-          "category": "Main Course",
-          "veg": false,
-          "price": 300,
-          "rating": [],
-          "feedback": [],
-          "prepTime": "35",
-          "discount": 0,
-          "dishInfo": "Grilled chicken breast wrapped in soft tortilla with fresh lettuce, tomatoes, onions and our special sauce.",
-          "reviews": 0,
-          "available": true,
-          "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg"
-        },
-        "quantity": 1,
-        "addedAt": "2026-04-27T05:35:30.407Z"
-      }
-    ],
-    "totalItems": 1,
-    "totalAmount": 300,
-    "updatedAt": "2026-04-27T11:29:30.726Z"
+    "items": [],
+    "totalItems": 0,
+    "totalAmount": 0,
+    "updatedAt": "2026-04-27T11:29:36.377Z"
   },
   {
     "userId": "1777268206793",
