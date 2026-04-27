@@ -71,10 +71,30 @@
         },
         "quantity": 1,
         "addedAt": "2026-04-27T05:36:56.674Z"
+      },
+      {
+        "id": 1777268221643,
+        "menuItem": {
+          "id": 6,
+          "name": "Pepperoni Pizza",
+          "category": "Pizza",
+          "veg": false,
+          "price": 350,
+          "rating": [],
+          "feedback": [],
+          "prepTime": "22",
+          "discount": 0,
+          "dishInfo": "Traditional pizza topped with spicy pepperoni slices and extra mozzarella cheese.",
+          "reviews": 0,
+          "available": true,
+          "image": "https://images.pexels.com/photos/4109084/pexels-photo-4109084.jpeg"
+        },
+        "quantity": 1,
+        "addedAt": "2026-04-27T05:37:01.643Z"
       }
     ],
-    "totalItems": 1,
-    "totalAmount": 280,
-    "updatedAt": "2026-04-27T05:36:56.674Z"
+    "totalItems": 2,
+    "totalAmount": 630,
+    "updatedAt": "2026-04-27T05:37:01.643Z"
   }
 ]
