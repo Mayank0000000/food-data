@@ -47,5 +47,34 @@
     "totalItems": 4,
     "totalAmount": 1190,
     "updatedAt": "2026-04-27T08:43:07.758Z"
+  },
+  {
+    "userId": "1776936153936",
+    "userName": "mayank",
+    "items": [
+      {
+        "id": 1777359053032,
+        "menuItem": {
+          "id": 3,
+          "name": "Lamb Burger",
+          "category": "Snacks",
+          "veg": true,
+          "price": 120,
+          "rating": [],
+          "feedback": [],
+          "prepTime": "15",
+          "discount": 0,
+          "dishInfo": "Juicy lamb patty with fresh vegetables and special sauce in a soft bun, served with crispy fries.",
+          "reviews": 0,
+          "available": true,
+          "image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg"
+        },
+        "quantity": 1,
+        "addedAt": "2026-04-28T06:50:53.032Z"
+      }
+    ],
+    "totalItems": 1,
+    "totalAmount": 120,
+    "updatedAt": "2026-04-28T06:50:53.032Z"
   }
 ]
