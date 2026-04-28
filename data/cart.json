@@ -47,34 +47,5 @@
     "totalItems": 4,
     "totalAmount": 1190,
     "updatedAt": "2026-04-27T08:43:07.758Z"
-  },
-  {
-    "userId": "1776936153936",
-    "userName": "mayank",
-    "items": [
-      {
-        "id": 1777361497050,
-        "menuItem": {
-          "id": 1,
-          "name": "Salad Rice",
-          "category": "Main Course",
-          "veg": true,
-          "price": 250,
-          "rating": [],
-          "feedback": [],
-          "prepTime": "25",
-          "discount": 15,
-          "dishInfo": "Fresh garden vegetables mixed with aromatic basmati rice, seasoned with herbs and spices for a healthy and flavorful meal.",
-          "reviews": 0,
-          "available": true,
-          "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg"
-        },
-        "quantity": 1,
-        "addedAt": "2026-04-28T07:31:37.050Z"
-      }
-    ],
-    "totalItems": 1,
-    "totalAmount": 250,
-    "updatedAt": "2026-04-28T07:31:37.050Z"
   }
 ]
