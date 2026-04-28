@@ -53,26 +53,6 @@
     "userName": "mayank",
     "items": [
       {
-        "id": 1777375574897,
-        "menuItem": {
-          "id": 4,
-          "name": "Chicken Burger",
-          "category": "Snacks",
-          "veg": false,
-          "price": 150,
-          "rating": [],
-          "feedback": [],
-          "prepTime": "18",
-          "discount": 0,
-          "dishInfo": "Crispy chicken fillet with lettuce, tomato, onion and mayo in a toasted sesame bun.",
-          "reviews": 0,
-          "available": true,
-          "image": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg"
-        },
-        "quantity": 1,
-        "addedAt": "2026-04-28T11:26:14.897Z"
-      },
-      {
         "id": 1777376689810,
         "menuItem": {
           "id": 5,
@@ -93,8 +73,8 @@
         "addedAt": "2026-04-28T11:44:49.810Z"
       }
     ],
-    "totalItems": 2,
-    "totalAmount": 430,
-    "updatedAt": "2026-04-28T11:44:49.810Z"
+    "totalItems": 1,
+    "totalAmount": 280,
+    "updatedAt": "2026-04-28T11:44:54.573Z"
   }
 ]
