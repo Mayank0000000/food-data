@@ -67,8 +67,9 @@
       "latitude": 12.9305097,
       "longitude": 77.6919608
     },
-    "status": "confirmed",
+    "status": "cancelled",
     "id": "ORDER_1777367109957",
-    "createdAt": "2026-04-28T09:05:09.957Z"
+    "createdAt": "2026-04-28T09:05:09.957Z",
+    "cancelledAt": "2026-04-28T09:05:20.221Z"
   }
 ]
