@@ -71,10 +71,30 @@
         },
         "quantity": 1,
         "addedAt": "2026-04-28T11:26:14.897Z"
+      },
+      {
+        "id": 1777376689810,
+        "menuItem": {
+          "id": 5,
+          "name": "Margherita Pizza",
+          "category": "Pizza",
+          "veg": true,
+          "price": 280,
+          "rating": [],
+          "feedback": [],
+          "prepTime": "20",
+          "discount": 40,
+          "dishInfo": "Classic Italian pizza with fresh mozzarella, tomato sauce and basil leaves on a crispy thin crust.",
+          "reviews": 0,
+          "available": true,
+          "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg"
+        },
+        "quantity": 1,
+        "addedAt": "2026-04-28T11:44:49.810Z"
       }
     ],
-    "totalItems": 1,
-    "totalAmount": 150,
-    "updatedAt": "2026-04-28T11:26:14.897Z"
+    "totalItems": 2,
+    "totalAmount": 430,
+    "updatedAt": "2026-04-28T11:44:49.810Z"
   }
 ]
