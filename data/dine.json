@@ -25,5 +25,25 @@
     ],
     "totalAmount": 550,
     "id": "booking-1777460256112"
+  },
+  {
+    "userId": "1776936153936",
+    "userName": "mayank",
+    "seatNumber": 1,
+    "seatId": "seat-1",
+    "bookedAt": "2026-04-29T11:21:31.015Z",
+    "bookedUntil": "2026-04-29T12:21:31.015Z",
+    "status": "active",
+    "cartItems": [
+      {
+        "id": 1777461627991,
+        "name": "Chicken Wrap",
+        "price": 300,
+        "quantity": 1,
+        "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg"
+      }
+    ],
+    "totalAmount": 300,
+    "id": "booking-1777461691083"
   }
 ]
