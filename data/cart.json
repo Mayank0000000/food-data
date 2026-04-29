@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "userId": "1776936153936",
+    "userName": "mayank",
+    "items": [
+      {
+        "id": 1777461150017,
+        "menuItem": {
+          "id": 28,
+          "name": "Falafel",
+          "category": "Main Course",
+          "veg": true,
+          "price": 260,
+          "rating": [],
+          "feedback": [],
+          "prepTime": "20",
+          "discount": 0,
+          "dishInfo": "Crispy Middle Eastern chickpea patties with tahini sauce and salad.",
+          "reviews": 0,
+          "available": true,
+          "image": "https://images.pexels.com/photos/1618898/pexels-photo-1618898.jpeg"
+        },
+        "quantity": 1,
+        "addedAt": "2026-04-29T11:12:30.017Z"
+      }
+    ],
+    "totalItems": 1,
+    "totalAmount": 260,
+    "updatedAt": "2026-04-29T11:12:30.017Z"
+  }
+]
