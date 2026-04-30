@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "userId": "1776936153936",
+    "type": "order",
+    "title": "🎉 Order Placed!",
+    "body": "Your order from Perfect Pairing has been placed successfully.",
+    "data": {
+      "orderId": "ORD_1777536555021_4cs9bh0l3",
+      "restaurantName": "Perfect Pairing"
+    },
+    "id": "NOTIF_1777536557495_7y01j9x3s",
+    "isRead": false,
+    "createdAt": "2026-04-30T08:09:17.495Z"
+  }
+]
