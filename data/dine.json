@@ -26,7 +26,7 @@
     "seatId": "seat-11",
     "bookedAt": "2026-05-01T19:00:00.000Z",
     "bookedUntil": "2026-05-01T21:00:00.000Z",
-    "status": "active",
+    "status": "cancelled",
     "cartItems": [
       {
         "id": 1777465987641,
