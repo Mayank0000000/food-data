@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "id": "banner_1",
+    "title": "Biryani Bonanza 🍛",
+    "subtitle": "Flat 40% OFF on top restaurants",
+    "image": "https://images.unsplash.com/photo-1563379091339-03246963d51a",
+    "cta": "Order Now",
+    "deeplink": "/collection/biryani",
+
+    "isActive": true,
+    "priority": 1,
+
+    "startTime": "2026-04-30T10:00:00Z",
+    "endTime": "2026-05-01T23:59:59Z",
+
+    "targeting": {
+      "city": ["Kolkata", "Delhi", "Bangalore"],
+      "foodPreference": ["non_veg"]
+    }
+  },
+  {
+    "id": "banner_2",
+    "title": "Pizza Party 🍕",
+    "subtitle": "Buy 1 Get 1 Free",
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+    "cta": "Explore",
+    "deeplink": "/collection/pizza",
+
+    "isActive": true,
+    "priority": 2,
+
+    "startTime": "2026-04-30T12:00:00Z",
+    "endTime": "2026-05-02T23:59:59Z",
+
+    "targeting": {
+      "city": ["Kolkata", "Mumbai"],
+      "foodPreference": ["veg", "non_veg"]
+    }
+  },
+  {
+    "id": "banner_3",
+    "title": "Healthy Bites 🥗",
+    "subtitle": "Up to 30% OFF on salads",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "cta": "Eat Healthy",
+    "deeplink": "/collection/healthy",
+
+    "isActive": true,
+    "priority": 3,
+
+    "startTime": "2026-04-30T06:00:00Z",
+    "endTime": "2026-05-05T23:59:59Z",
+
+    "targeting": {
+      "city": ["Kolkata"],
+      "foodPreference": ["veg"]
+    }
+  },
+  {
+    "id": "banner_4",
+    "title": "Late Night Cravings 🌙",
+    "subtitle": "Midnight deals up to 50% OFF",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+    "cta": "Order Late Night",
+    "deeplink": "/collection/late-night",
+
+    "isActive": true,
+    "priority": 4,
+
+    "startTime": "2026-04-30T20:00:00Z",
+    "endTime": "2026-05-01T03:00:00Z",
+
+    "targeting": {
+      "city": ["Kolkata", "Delhi"],
+      "foodPreference": ["veg", "non_veg"]
+    }
+  }
+]
