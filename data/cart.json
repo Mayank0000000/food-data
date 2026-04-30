@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "userId": "1776936153936",
+    "userName": "mayank",
+    "items": [
+      {
+        "id": 1777529876511,
+        "menuItem": {
+          "id": 27,
+          "name": "Chilli Chicken",
+          "category": "Main Course",
+          "veg": false,
+          "price": 280,
+          "rating": [],
+          "feedback": [],
+          "prepTime": "25",
+          "discount": 0,
+          "dishInfo": "Spicy chicken stir-fried with green chillies, onions and bell peppers.",
+          "reviews": 0,
+          "available": true,
+          "image": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg"
+        },
+        "quantity": 1,
+        "addedAt": "2026-04-30T06:17:56.511Z"
+      }
+    ],
+    "totalItems": 1,
+    "totalAmount": 280,
+    "updatedAt": "2026-04-30T06:17:56.511Z"
+  }
+]
