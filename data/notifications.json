@@ -11,5 +11,17 @@
     "id": "NOTIF_1777541003104_7apzkitti",
     "isRead": false,
     "createdAt": "2026-04-30T09:23:23.105Z"
+  },
+  {
+    "userId": "1776936153936",
+    "type": "order",
+    "title": "Order Delivered!",
+    "body": "Your order has been delivered. Enjoy your meal!",
+    "data": {
+      "orderId": "ORD_1777541130274_39xjxmb3t"
+    },
+    "id": "NOTIF_1777541253852_8jq84qpdb",
+    "isRead": false,
+    "createdAt": "2026-04-30T09:27:33.852Z"
   }
 ]
