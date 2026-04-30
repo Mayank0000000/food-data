@@ -2,12 +2,12 @@
   {
     "id": "banner_1",
     "title": "Biryani Bonanza 🍛",
-    "subtitle": "Flat 40% OFF on top restaurants",
+    "subtitle": "Flat 40% OFF",
     "image": "https://images.unsplash.com/photo-1563379091339-03246963d51a",
     "cta": "Order Now",
     "deeplink": "/collection/biryani",
 
-    "isActive": true,
+    "isActive": false,
     "priority": 1
 
   },
