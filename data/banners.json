@@ -6,7 +6,7 @@
     "image": "https://images.unsplash.com/photo-1563379091339-03246963d51a",
     "cta": "Order Now",
     "deeplink": "/collection/biryani",
-
+    "category": "biryani",
     "isActive": false,
     "priority": 1
 
@@ -18,7 +18,7 @@
     "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
     "cta": "Explore",
     "deeplink": "/collection/pizza",
-
+    "category": "pizza",
     "isActive": true,
     "priority": 2
   },
@@ -29,7 +29,7 @@
     "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
     "cta": "Eat Healthy",
     "deeplink": "/collection/healthy",
-
+    "category": "salad",
     "isActive": true,
     "priority": 3
   },
@@ -40,7 +40,7 @@
     "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
     "cta": "Order Late Night",
     "deeplink": "/collection/late-night",
-
+    "category": "burger",
     "isActive": true,
     "priority": 4
   }
