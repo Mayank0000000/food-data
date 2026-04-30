@@ -8,15 +8,8 @@
     "deeplink": "/collection/biryani",
 
     "isActive": true,
-    "priority": 1,
+    "priority": 1
 
-    "startTime": "2026-04-30T10:00:00Z",
-    "endTime": "2026-05-01T23:59:59Z",
-
-    "targeting": {
-      "city": ["Kolkata", "Delhi", "Bangalore"],
-      "foodPreference": ["non_veg"]
-    }
   },
   {
     "id": "banner_2",
@@ -27,15 +20,7 @@
     "deeplink": "/collection/pizza",
 
     "isActive": true,
-    "priority": 2,
-
-    "startTime": "2026-04-30T12:00:00Z",
-    "endTime": "2026-05-02T23:59:59Z",
-
-    "targeting": {
-      "city": ["Kolkata", "Mumbai"],
-      "foodPreference": ["veg", "non_veg"]
-    }
+    "priority": 2
   },
   {
     "id": "banner_3",
@@ -46,15 +31,7 @@
     "deeplink": "/collection/healthy",
 
     "isActive": true,
-    "priority": 3,
-
-    "startTime": "2026-04-30T06:00:00Z",
-    "endTime": "2026-05-05T23:59:59Z",
-
-    "targeting": {
-      "city": ["Kolkata"],
-      "foodPreference": ["veg"]
-    }
+    "priority": 3
   },
   {
     "id": "banner_4",
@@ -65,14 +42,6 @@
     "deeplink": "/collection/late-night",
 
     "isActive": true,
-    "priority": 4,
-
-    "startTime": "2026-04-30T20:00:00Z",
-    "endTime": "2026-05-01T03:00:00Z",
-
-    "targeting": {
-      "city": ["Kolkata", "Delhi"],
-      "foodPreference": ["veg", "non_veg"]
-    }
+    "priority": 4
   }
 ]
