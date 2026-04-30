@@ -1,7 +1,7 @@
 [
   {
     "id": "banner_1",
-    "title": "Biryani Bonanza 🍛",
+    "title": "Biryani Bonanza",
     "subtitle": "Flat 40% OFF",
     "image": "https://images.unsplash.com/photo-1563379091339-03246963d51a",
     "cta": "Order Now",
@@ -13,7 +13,7 @@
   },
   {
     "id": "banner_2",
-    "title": "Pizza Party 🍕",
+    "title": "Pizza Party",
     "subtitle": "Buy 1 Get 1 Free",
     "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
     "cta": "Explore",
@@ -24,7 +24,7 @@
   },
   {
     "id": "banner_3",
-    "title": "Healthy Bites 🥗",
+    "title": "Healthy Bites",
     "subtitle": "Up to 30% OFF on salads",
     "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
     "cta": "Eat Healthy",
@@ -35,7 +35,7 @@
   },
   {
     "id": "banner_4",
-    "title": "Late Night Cravings 🌙",
+    "title": "Late Night Cravings",
     "subtitle": "Midnight deals up to 50% OFF",
     "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
     "cta": "Order Late Night",
