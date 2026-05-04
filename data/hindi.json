@@ -345,5 +345,25 @@
     "minOrder": "न्यूनतम ऑर्डर मूल्य: ₹{{amount}}",
     "save": "₹{{amount}} बचाएं",
     "off": "{{percent}}% छूट"
+  },
+  "reviews": {
+    "rateYourExperience": "अपना अनुभव रेट करें",
+    "yourRating": "आपकी रेटिंग",
+    "yourFeedback": "आपकी फीडबैक (वैकल्पिक)",
+    "feedbackPlaceholder": "इस व्यंजन के बारे में अपने विचार साझा करें...",
+    "submit": "समीक्षा जमा करें",
+    "error": "त्रुटि",
+    "pleaseSelectRating": "कृपया रेटिंग चुनें",
+    "submitError": "समीक्षा जमा करने में विफल। कृपया फिर से कोशिश करें।",
+    "success": "सफलता",
+    "thankYou": "आपकी समीक्षा के लिए धन्यवाद!",
+    "noReviews": "अभी तक कोई समीक्षा नहीं",
+    "beTheFirst": "इस व्यंजन की समीक्षा करने वाले पहले व्यक्ति बनें",
+    "customerReviews": "ग्राहक समीक्षा",
+    "basedOn": "{{count}} समीक्षाओं के आधार पर",
+    "today": "आज",
+    "yesterday": "कल",
+    "daysAgo": "{{days}} दिन पहले",
+    "weeksAgo": "{{weeks}} सप्ताह पहले"
   }
 }
