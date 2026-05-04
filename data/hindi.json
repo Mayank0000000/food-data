@@ -1,0 +1,349 @@
+{
+  "auth": {
+    "login": {
+      "title": "लॉग इन",
+      "subtitle": "कृपया अपने मौजूदा खाते में साइन इन करें",
+      "emailLabel": "ईमेल",
+      "emailPlaceholder": "example@gmail.com",
+      "passwordLabel": "पासवर्ड",
+      "passwordPlaceholder": "••••••••••",
+      "loginButton": "लॉग इन",
+      "footerText": "क्या आपके पास खाता नहीं है?",
+      "footerLink": "साइन अप"
+    },
+    "signup": {
+      "title": "साइन अप",
+      "subtitle": "कृपया एक नया खाता बनाएं",
+      "nameLabel": "नाम",
+      "namePlaceholder": "जॉन डो",
+      "emailLabel": "ईमेल",
+      "emailPlaceholder": "example@gmail.com",
+      "passwordLabel": "पासवर्ड",
+      "passwordPlaceholder": "••••••••••",
+      "signupButton": "साइन अप",
+      "footerText": "क्या आपके पास पहले से खाता है?",
+      "footerLink": "लॉग इन"
+    },
+    "biometricLock": {
+      "appName": "FooD",
+      "welcomeBack": "वापसी पर स्वागत है, {{name}} 👋",
+      "title": "ऐप लॉक है",
+      "subtitle": "जारी रखने के लिए {{biometricType}} का उपयोग करें",
+      "scanButton": "अनलॉक करने के लिए स्कैन करें",
+      "usePasswordButton": "पासवर्ड का उपयोग करें",
+      "signOutRequired": "साइन आउट आवश्यक",
+      "signOutMessage": "पासवर्ड लॉगिन का उपयोग करने के लिए आपको पहले साइन आउट करना होगा। जारी रखें?",
+      "cancel": "रद्द करें",
+      "signOut": "साइन आउट"
+    }
+  },
+  "tabs": {
+    "home": "होम",
+    "explorer": "एक्सप्लोरर",
+    "cart": "कार्ट",
+    "account": "खाता"
+  },
+  "home": {
+    "restaurantName": "परफेक्ट पेयरिंग",
+    "rating": "4.0",
+    "reviewCount": "31K+ द्वारा",
+    "location": "2.8 किमी • जेपी नगर",
+    "deliveryTime": "20-25 मिनट • बाद में शेड्यूल करें",
+    "trustBadge": "पिछले 100 ऑर्डर बिना शिकायत",
+    "perfectPairingsTitle": "आपके लिए परफेक्ट पेयरिंग्स",
+    "menuButton": "मेनू",
+    "freeDeliveryText": "₹49 से ऊपर मुफ्त डिलीवरी पाएं",
+    "goldText": "GOLD"
+  },
+  "explorer": {
+    "searchPlaceholder": "व्यंजन खोजें...",
+    "allCategory": "सभी",
+    "totalItems": "कुल {{count}} आइटम",
+    "filters": "फिल्टर",
+    "noResults": "कोई आइटम नहीं मिला",
+    "noResultsSubtitle": "अपने फिल्टर समायोजित करने का प्रयास करें"
+  },
+  "cart": {
+    "title": "कार्ट",
+    "emptyTitle": "आपका कार्ट खाली है",
+    "emptySubtitle": "शुरू करने के लिए आइटम जोड़ें",
+    "clearCart": "कार्ट साफ करें",
+    "clearCartConfirm": "क्या आप वाकई अपने कार्ट से सभी आइटम हटाना चाहते हैं?",
+    "cancel": "रद्द करें",
+    "clear": "साफ करें",
+    "dineInButton": "डाइन इन",
+    "orderButton": "ऑर्डर दें",
+    "billSummary": "बिल सारांश",
+    "itemTotal": "आइटम कुल",
+    "deliveryFee": "डिलीवरी शुल्क",
+    "platformFee": "प्लेटफॉर्म शुल्क",
+    "gst": "GST और रेस्टोरेंट शुल्क",
+    "discount": "छूट",
+    "toPay": "भुगतान करना",
+    "applyCoupon": "कूपन लागू करें",
+    "couponApplied": "कूपन लागू हुआ",
+    "removeCoupon": "हटाएं",
+    "emptyCartAlert": "खाली कार्ट",
+    "emptyCartMessage": "कृपया पहले अपने कार्ट में आइटम जोड़ें।",
+    "locationRequired": "स्थान आवश्यक",
+    "locationMessage": "हमें आपके ऑर्डर को डिलीवर करने के लिए आपका स्थान चाहिए। कृपया सेटिंग्स में लोकेशन एक्सेस सक्षम करें।",
+    "tryAgain": "फिर से कोशिश करें",
+    "locationError": "त्रुटि",
+    "locationErrorMessage": "आपका स्थान प्राप्त करने में असमर्थ। कृपया फिर से कोशिश करें।"
+  },
+  "menu": {
+    "prepTime": "तैयारी का समय: {{time}} मिनट",
+    "discount": "{{percent}}% छूट",
+    "addItem": "आइटम जोड़ें - ₹{{price}}",
+    "spicy": "मसालेदार",
+    "reviews": "{{count}} समीक्षाएं",
+    "veg": "शाकाहारी",
+    "nonVeg": "नॉन-वेज"
+  },
+  "filters": {
+    "title": "फिल्टर और सॉर्टिंग",
+    "clearAll": "सभी साफ करें",
+    "showResults": "{{count}} परिणाम दिखाएं",
+    "close": "बंद करें",
+    "sortBy": "इसके अनुसार सॉर्ट करें",
+    "relevance": "प्रासंगिकता",
+    "priceLowToHigh": "मूल्य: कम से अधिक",
+    "priceHighToLow": "मूल्य: अधिक से कम",
+    "rating": "रेटिंग",
+    "restaurantRating": "रेस्टोरेंट रेटिंग",
+    "rated35Plus": "3.5+ रेटेड",
+    "rated40Plus": "4.0+ रेटेड",
+    "offers": "ऑफर",
+    "dealsAndDiscounts": "डील्स और छूट",
+    "foodType": "खाने का प्रकार"
+  },
+  "orders": {
+    "title": "आपके ऑर्डर",
+    "searchPlaceholder": "ऑर्डर खोजें...",
+    "emptyTitle": "अभी तक कोई ऑर्डर नहीं",
+    "emptySubtitle": "अपना इतिहास यहां देखने के लिए ऑर्डर दें",
+    "reorder": "फिर से ऑर्डर करें",
+    "reorderComingSoon": "फिर से ऑर्डर करने की सुविधा जल्द आ रही है!",
+    "errorLoading": "त्रुटि",
+    "errorLoadingMessage": "ऑर्डर लोड करने में विफल। कृपया फिर से कोशिश करें।",
+    "status": {
+      "confirmed": "ऑर्डर की पुष्टि हुई",
+      "preparing": "आपका ऑर्डर तैयार हो रहा है",
+      "outForDelivery": "डिलीवरी के लिए बाहर",
+      "delivered": "डिलीवर हुआ",
+      "cancelled": "रद्द"
+    }
+  },
+  "orderTracking": {
+    "title": "ऑर्डर ट्रैकिंग",
+    "orderStatus": "ऑर्डर स्थिति",
+    "distance": "दूरी: {{distance}} किमी",
+    "payment": "भुगतान: डिलीवरी पर कैश",
+    "cancelOrder": "ऑर्डर रद्द करें",
+    "backToHome": "होम पर वापस",
+    "estimatedTime": "अनुमानित: {{time}} मिनट",
+    "pending": "लंबित",
+    "alerts": {
+      "deliveredTitle": "ऑर्डर डिलीवर हुआ! 🎉",
+      "deliveredMessage": "आपका ऑर्डर सफलतापूर्वक डिलीवर हो गया है। अपना भोजन का आनंद लें!",
+      "leaveTitle": "ट्रैकिंग छोड़ें?",
+      "leaveMessage": "आपका ऑर्डर अभी भी डिलीवर हो रहा है। क्या आप वाकई छोड़ना चाहते हैं?",
+      "cancelTitle": "ऑर्डर रद्द करें?",
+      "cancelMessage": "क्या आप वाकई इस ऑर्डर को रद्द करना चाहते हैं? यह कार्रवाई पूर्ववत नहीं की जा सकती।",
+      "yes": "हां",
+      "no": "नहीं",
+      "ok": "ठीक है",
+      "leave": "छोड़ें"
+    }
+  },
+  "bookings": {
+    "title": "मेरी बुकिंग्स",
+    "emptyTitle": "अभी तक कोई बुकिंग नहीं",
+    "emptySubtitle": "अपने रिजर्वेशन यहां देखने के लिए एक टेबल बुक करें",
+    "cancel": "रद्द करें",
+    "seat": "सीट {{number}}",
+    "items": "{{count}} आइटम",
+    "itemsPlural": "{{count}} आइटम्स",
+    "orderItems": "ऑर्डर आइटम्स:",
+    "totalAmount": "₹{{amount}}",
+    "status": {
+      "active": "सक्रिय",
+      "completed": "पूर्ण",
+      "cancelled": "रद्द"
+    },
+    "alerts": {
+      "errorTitle": "त्रुटि",
+      "errorMessage": "बुकिंग लोड करने में विफल। कृपया फिर से कोशिश करें।",
+      "cancelTitle": "बुकिंग रद्द करें?",
+      "cancelMessage": "क्या आप वाकई इस बुकिंग को रद्द करना चाहते हैं?",
+      "cancelSuccess": "बुकिंग रद्द हुई",
+      "cancelSuccessMessage": "आपकी बुकिंग सफलतापूर्वक रद्द हो गई है।",
+      "cancelError": "बुकिंग रद्द करने में विफल। कृपया फिर से कोशिश करें।"
+    }
+  },
+  "dineIn": {
+    "title": "डाइन इन",
+    "subtitle": "एक टेबल बुक करें और अपना भोजन का आनंद लें",
+    "selectSeat": "एक सीट चुनें",
+    "selectDateTime": "दिनांक और समय चुनें",
+    "selectDuration": "अवधि चुनें",
+    "bookingSummary": "बुकिंग सारांश",
+    "dateTime": "दिनांक और समय",
+    "items": "आइटम्स",
+    "seatNumber": "सीट नंबर",
+    "duration": "अवधि",
+    "hours": "{{count}} घंटा",
+    "totalAmount": "कुल राशि",
+    "confirmBooking": "बुकिंग की पुष्टि करें - सीट {{number}}",
+    "selectASeat": "एक सीट चुनें",
+    "errors": {
+      "loadSeatsTitle": "त्रुटि",
+      "loadSeatsMessage": "सीट लोड करने में विफल। कृपया फिर से कोशिश करें।",
+      "noSeatTitle": "कोई सीट नहीं चुनी गई",
+      "noSeatMessage": "जारी रखने के लिए कृपया एक सीट चुनें।",
+      "emptyCartTitle": "खाली कार्ट",
+      "emptyCartMessage": "कृपया पहले अपने कार्ट में आइटम जोड़ें।",
+      "invalidTimeTitle": "अमान्य समय",
+      "invalidTimeMessage": "कृपया भविष्य की तारीख और समय चुनें।",
+      "bookingFailedTitle": "बुकिंग विफल",
+      "bookingFailedMessage": "सीट बुक करने में विफल। कृपया फिर से कोशिश करें।"
+    },
+    "alerts": {
+      "confirmTitle": "बुकिंग की पुष्टि करें",
+      "confirmMessage": "क्या आप वाकई {{date}} को {{time}} पर सीट {{number}} बुक करना चाहते हैं?",
+      "successTitle": "बुकिंग की पुष्टि हुई! 🎉",
+      "successMessage": "आपकी टेबल सफलतापूर्वक बुक हो गई है।",
+      "cancel": "रद्द करें",
+      "confirm": "पुष्टि करें",
+      "ok": "ठीक है"
+    }
+  },
+  "account": {
+    "title": "खाता",
+    "profile": "प्रोफाइल",
+    "security": "सुरक्षा",
+    "preferences": "प्राथमिकताएं",
+    "support": "समर्थन",
+    "logout": "लॉगआउट",
+    "menuItems": {
+      "myOrders": "मेरे ऑर्डर",
+      "myBookings": "मेरी बुकिंग्स",
+      "editProfile": "प्रोफाइल संपादित करें",
+      "notifications": "सूचनाएं",
+      "paymentMethods": "भुगतान विधियां",
+      "addresses": "पते"
+    },
+    "biometric": {
+      "login": "{{type}} लॉगिन",
+      "notAvailable": "इस डिवाइस पर उपलब्ध नहीं",
+      "notSetup": "डिवाइस सेटिंग्स में {{type}} सेटअप करें",
+      "enabled": "सक्षम",
+      "enabledMessage": "{{type}} लॉगिन अब सक्षम है।",
+      "disabled": "अक्षम",
+      "disabledMessage": "{{type}} लॉगिन अक्षम कर दिया गया है।",
+      "cancelled": "रद्द",
+      "cancelledMessage": "{{type}} लॉगिन सक्षम नहीं किया गया था।",
+      "notAvailableAlert": "उपलब्ध नहीं",
+      "notAvailableMessage": "बायोमेट्रिक प्रमाणीकरण इस डिवाइस पर उपलब्ध नहीं है।",
+      "notSetupAlert": "सेटअप नहीं",
+      "notSetupMessage": "कृपया पहले अपनी डिवाइस सेटिंग्स में {{type}} सेटअप करें।"
+    },
+    "alerts": {
+      "logoutTitle": "लॉगआउट",
+      "logoutMessage": "क्या आप वाकई लॉगआउट करना चाहते हैं?",
+      "comingSoonTitle": "जल्द आ रहा है",
+      "comingSoonMessage": "{{feature}} जल्द ही उपलब्ध होगा!",
+      "cancel": "रद्द करें",
+      "logout": "लॉगआउट"
+    }
+  },
+  "notifications": {
+    "title": "सूचनाएं",
+    "emptyTitle": "कोई सूचना नहीं",
+    "emptySubtitle": "आप पूरी तरह से अपडेट हैं!",
+    "markAsRead": "पढ़े हुए के रूप में चिह्नित करें",
+    "types": {
+      "order": "ऑर्डर अपडेट",
+      "booking": "बुकिंग अपडेट",
+      "promotion": "प्रमोशन",
+      "general": "सूचना"
+    }
+  },
+  "validation": {
+    "emailRequired": "ईमेल आवश्यक है",
+    "emailInvalid": "कृपया एक वैध ईमेल दर्ज करें",
+    "passwordRequired": "पासवर्ड आवश्यक है",
+    "passwordMinLength": "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए",
+    "nameRequired": "नाम आवश्यक है",
+    "nameMinLength": "नाम कम से कम 2 अक्षरों का होना चाहिए"
+  },
+  "errors": {
+    "auth": {
+      "userNotFound": "उपयोगकर्ता नहीं मिला। कृपया पहले साइन अप करें।",
+      "invalidPassword": "अमान्य पासवर्ड",
+      "userExists": "उपयोगकर्ता पहले से मौजूद है। कृपया लॉगिन करें।",
+      "loginFailed": "लॉगिन विफल",
+      "signupFailed": "साइनअप विफल"
+    },
+    "generic": {
+      "somethingWentWrong": "कुछ गलत हो गया",
+      "tryAgain": "कृपया फिर से कोशिश करें",
+      "networkError": "नेटवर्क त्रुटि। कृपया अपना कनेक्शन जांचें।"
+    }
+  },
+  "common": {
+    "ok": "ठीक है",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "yes": "हां",
+    "no": "नहीं",
+    "save": "सेव करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "close": "बंद करें",
+    "back": "वापस",
+    "next": "अगला",
+    "done": "हो गया",
+    "loading": "लोड हो रहा है...",
+    "retry": "फिर से कोशिश करें",
+    "refresh": "रिफ्रेश करें",
+    "search": "खोजें",
+    "filter": "फिल्टर",
+    "sort": "सॉर्ट",
+    "apply": "लागू करें",
+    "clear": "साफ करें",
+    "viewAll": "सभी देखें",
+    "seeMore": "और देखें",
+    "seeLess": "कम देखें"
+  },
+  "payment": {
+    "methods": {
+      "cod": "डिलीवरी पर कैश",
+      "card": "क्रेडिट/डेबिट कार्ड",
+      "upi": "UPI",
+      "wallet": "वॉलेट"
+    },
+    "selectMethod": "भुगतान विधि चुनें",
+    "proceedToPay": "भुगतान करने के लिए आगे बढ़ें"
+  },
+  "delivery": {
+    "deliveryTo": "डिलीवरी करने के लिए",
+    "changeAddress": "पता बदलें",
+    "addAddress": "पता जोड़ें",
+    "deliveryInstructions": "डिलीवरी निर्देश",
+    "instructionsPlaceholder": "डिलीवरी निर्देश जोड़ें (वैकल्पिक)"
+  },
+  "coupons": {
+    "title": "कूपन लागू करें",
+    "available": "उपलब्ध कूपन",
+    "enterCode": "कूपन कोड दर्ज करें",
+    "apply": "लागू करें",
+    "applied": "कूपन लागू हुआ",
+    "invalid": "अमान्य कूपन कोड",
+    "expired": "यह कूपन समाप्त हो गया है",
+    "notApplicable": "यह कूपन लागू नहीं है",
+    "minOrder": "न्यूनतम ऑर्डर मूल्य: ₹{{amount}}",
+    "save": "₹{{amount}} बचाएं",
+    "off": "{{percent}}% छूट"
+  }
+}

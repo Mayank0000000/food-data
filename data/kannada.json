@@ -1,0 +1,349 @@
+{
+  "auth": {
+    "login": {
+      "title": "ಲಾಗಿನ್",
+      "subtitle": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಖಾತೆಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ",
+      "emailLabel": "ಇಮೇಲ್",
+      "emailPlaceholder": "example@gmail.com",
+      "passwordLabel": "ಪಾಸ್‌ವರ್ಡ್",
+      "passwordPlaceholder": "••••••••••",
+      "loginButton": "ಲಾಗಿನ್",
+      "footerText": "ನಿಮಗೆ ಖಾತೆ ಇಲ್ಲವೇ?",
+      "footerLink": "ಸೈನ್ ಅಪ್"
+    },
+    "signup": {
+      "title": "ಸೈನ್ ಅಪ್",
+      "subtitle": "ದಯವಿಟ್ಟು ಹೊಸ ಖಾತೆಯನ್ನು ರಚಿಸಿ",
+      "nameLabel": "ಹೆಸರು",
+      "namePlaceholder": "ಜಾನ್ ಡೋ",
+      "emailLabel": "ಇಮೇಲ್",
+      "emailPlaceholder": "example@gmail.com",
+      "passwordLabel": "ಪಾಸ್‌ವರ್ಡ್",
+      "passwordPlaceholder": "••••••••••",
+      "signupButton": "ಸೈನ್ ಅಪ್",
+      "footerText": "ನಿಮಗೆ ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ?",
+      "footerLink": "ಲಾಗಿನ್"
+    },
+    "biometricLock": {
+      "appName": "FooD",
+      "welcomeBack": "ಸ್ವಾಗತಿ, {{name}} 👋",
+      "title": "ಅಪ್ಲಿಕೇಶನ್ ಲಾಕ್ ಆಗಿದೆ",
+      "subtitle": "ಮುಂದುವರಿಸಲು {{biometricType}} ಬಳಸಿ",
+      "scanButton": "ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ",
+      "usePasswordButton": "ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ",
+      "signOutRequired": "ಸೈನ್ ಔಟ್ ಅಗತ್ಯ",
+      "signOutMessage": "ಪಾಸ್‌ವರ್ಡ್ ಲಾಗಿನ್ ಬಳಸಲು ನೀವು ಮೊದಲು ಸೈನ್ ಔಟ್ ಮಾಡಬೇಕು. ಮುಂದುವರಿಯಬೇಕೇ?",
+      "cancel": "ರದ್ದುಮಾಡಿ",
+      "signOut": "ಸೈನ್ ಔಟ್"
+    }
+  },
+  "tabs": {
+    "home": "ಮುಖಪುಟ",
+    "explorer": "ಎಕ್ಸ್‌ಪ್ಲೋರರ್",
+    "cart": "ಕಾರ್ಟ್",
+    "account": "ಖಾತೆ"
+  },
+  "home": {
+    "restaurantName": "ಪರ್ಫೆಕ್ಟ್ ಪೇರಿಂಗ್",
+    "rating": "4.0",
+    "reviewCount": "31K+ ರಿಂದ",
+    "location": "2.8 ಕಿಮೀ • ಜೆಪಿ ನಗರ",
+    "deliveryTime": "20-25 ನಿಮಿಷಗಳು • ನಂತರ ವೇಳಾಪಟ್ಟಿ",
+    "trustBadge": "ಕಳೆದ 100 ಆದೇಶಗಳು ದೂರುಗಳಿಲ್ಲದೆ",
+    "perfectPairingsTitle": "ನಿಮಗಾಗಿ ಪರ್ಫೆಕ್ಟ್ ಪೇರಿಂಗ್‌ಗಳು",
+    "menuButton": "ಮೆನು",
+    "freeDeliveryText": "₹49 ಮೇಲೆ ಉಚಿತ ಡೆಲಿವರಿ ಪಡೆಯಿರಿ",
+    "goldText": "GOLD"
+  },
+  "explorer": {
+    "searchPlaceholder": "ಖಾದ್ಯಗಳನ್ನು ಹುಡುಕಿ...",
+    "allCategory": "ಎಲ್ಲಾ",
+    "totalItems": "ಒಟ್ಟು {{count}} ಐಟಂಗಳು",
+    "filters": "ಫಿಲ್ಟರ್‌ಗಳು",
+    "noResults": "ಯಾವುದೇ ಐಟಂಗಳು ಸಿಗಲಿಲ್ಲ",
+    "noResultsSubtitle": "ನಿಮ್ಮ ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಸರಿಹೊಂದಿಸಲು ಪ್ರಯತ್ನಿಸಿ"
+  },
+  "cart": {
+    "title": "ಕಾರ್ಟ್",
+    "emptyTitle": "ನಿಮ್ಮ ಕಾರ್ಟ್ ಖಾಲಿ ಇದೆ",
+    "emptySubtitle": "ಪ್ರಾರಂಭಿಸಲು ಐಟಂಗಳನ್ನು ಸೇರಿಸಿ",
+    "clearCart": "ಕಾರ್ಟ್ ತೆರವುಗೊಳಿಸಿ",
+    "clearCartConfirm": "ನೀವು ಖಂಡಿತವಾಗಿ ನಿಮ್ಮ ಕಾರ್ಟ್‌ನಿಂದ ಎಲ್ಲಾ ಐಟಂಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಬಯಸುವಿರಾ?",
+    "cancel": "ರದ್ದುಮಾಡಿ",
+    "clear": "ತೆರವುಗೊಳಿಸಿ",
+    "dineInButton": "ಡೈನ್ ಇನ್",
+    "orderButton": "ಆದೇಶ ನೀಡಿ",
+    "billSummary": "ಬಿಲ್ ಸಾರಾಂಶ",
+    "itemTotal": "ಐಟಂ ಒಟ್ಟು",
+    "deliveryFee": "ಡೆಲಿವರಿ ಶುಲ್ಕ",
+    "platformFee": "ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಶುಲ್ಕ",
+    "gst": "GST ಮತ್ತು ರೆಸ್ಟೋರೆಂಟ್ ಶುಲ್ಕಗಳು",
+    "discount": "ರಿಯಾಯಿತಿ",
+    "toPay": "ಪಾವತಿಸಲು",
+    "applyCoupon": "ಕೂಪನ್ ಅನ್ವಯಿಸಿ",
+    "couponApplied": "ಕೂಪನ್ ಅನ್ವಯಿಸಲಾಗಿದೆ",
+    "removeCoupon": "ತೆಗೆದುಹಾಕಿ",
+    "emptyCartAlert": "ಖಾಲಿ ಕಾರ್ಟ್",
+    "emptyCartMessage": "ದಯವಿಟ್ಟು ಮೊದಲು ನಿಮ್ಮ ಕಾರ್ಟ್‌ಗೆ ಐಟಂಗಳನ್ನು ಸೇರಿಸಿ.",
+    "locationRequired": "ಸ್ಥಳ ಅಗತ್ಯ",
+    "locationMessage": "ನಿಮ್ಮ ಆದೇಶವನ್ನು ಡೆಲಿವರಿ ಮಾಡಲು ನಮಗೆ ನಿಮ್ಮ ಸ್ಥಳ ಬೇಕು. ದಯವಿಟ್ಟು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಲೊಕೇಶನ್ ಪ್ರವೇಶವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.",
+    "tryAgain": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ",
+    "locationError": "ದೋಷ",
+    "locationErrorMessage": "ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "menu": {
+    "prepTime": "ತಯಾರಿ ಸಮಯ: {{time}} ನಿಮಿಷಗಳು",
+    "discount": "{{percent}}% ರಿಯಾಯಿತಿ",
+    "addItem": "ಐಟಂ ಸೇರಿಸಿ - ₹{{price}}",
+    "spicy": "ಖಾರ",
+    "reviews": "{{count}} ವಿಮರ್ಶೆಗಳು",
+    "veg": "ಶಾಕಾಹಾರಿ",
+    "nonVeg": "ನಾನ್-ವೆಜ್"
+  },
+  "filters": {
+    "title": "ಫಿಲ್ಟರ್‌ಗಳು ಮತ್ತು ವಿಂಗಡಣೆ",
+    "clearAll": "ಎಲ್ಲವನ್ನು ತೆರವುಗೊಳಿಸಿ",
+    "showResults": "{{count}} ಫಲಿತಾಂಶಗಳನ್ನು ತೋರಿಸಿ",
+    "close": "ಮುಚ್ಚಿ",
+    "sortBy": "ಇದರಿಂದ ವಿಂಗಡಿಸಿ",
+    "relevance": "ಸಂಬಂಧಿತತೆ",
+    "priceLowToHigh": "ಬೆಲೆ: ಕಡಿಮೆಯಿಂದ ಹೆಚ್ಚಿಗೆ",
+    "priceHighToLow": "ಬೆಲೆ: ಹೆಚ್ಚಿನಿಂದ ಕಡಿಮೆಗೆ",
+    "rating": "ರೇಟಿಂಗ್",
+    "restaurantRating": "ರೆಸ್ಟೋರೆಂಟ್ ರೇಟಿಂಗ್",
+    "rated35Plus": "3.5+ ರೇಟೆಡ್",
+    "rated40Plus": "4.0+ ರೇಟೆಡ್",
+    "offers": "ಆಫರ್‌ಗಳು",
+    "dealsAndDiscounts": "ಡೀಲ್‌ಗಳು ಮತ್ತು ರಿಯಾಯಿತಿಗಳು",
+    "foodType": "ಆಹಾರದ ಪ್ರಕಾರ"
+  },
+  "orders": {
+    "title": "ನಿಮ್ಮ ಆದೇಶಗಳು",
+    "searchPlaceholder": "ಆದೇಶಗಳನ್ನು ಹುಡುಕಿ...",
+    "emptyTitle": "ಇನ್ನೂ ಯಾವುದೇ ಆದೇಶಗಳಿಲ್ಲ",
+    "emptySubtitle": "ನಿಮ್ಮ ಇತಿಹಾಸವನ್ನು ಇಲ್ಲಿ ನೋಡಲು ಆದೇಶ ನೀಡಿ",
+    "reorder": "ಮರುಆದೇಶ",
+    "reorderComingSoon": "ಮರುಆದೇಶ ಸೌಲಭ್ಯ ಬೇಗನೆ ಬರುತ್ತಿದೆ!",
+    "errorLoading": "ದೋಷ",
+    "errorLoadingMessage": "ಆದೇಶಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+    "status": {
+      "confirmed": "ಆದೇಶದ ಖಚಿತತೆ",
+      "preparing": "ನಿಮ್ಮ ಆದೇಶವನ್ನು ತಯಾರಿಸಲಾಗುತ್ತಿದೆ",
+      "outForDelivery": "ಡೆಲಿವರಿಗಾಗಿ ಹೊರಗೆ",
+      "delivered": "ಡೆಲಿವರಿ ಮಾಡಲಾಗಿದೆ",
+      "cancelled": "ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
+    }
+  },
+  "orderTracking": {
+    "title": "ಆದೇಶ ಟ್ರ್ಯಾಕಿಂಗ್",
+    "orderStatus": "ಆದೇಶದ ಸ್ಥಿತಿ",
+    "distance": "ದೂರ: {{distance}} ಕಿಮೀ",
+    "payment": "ಪಾವತಿ: ಡೆಲಿವರಿಯಲ್ಲಿ ನಗದು",
+    "cancelOrder": "ಆದೇಶವನ್ನು ರದ್ದುಮಾಡಿ",
+    "backToHome": "ಮುಖಪುಟಕ್ಕೆ ಹಿಂದಿರುಗಿ",
+    "estimatedTime": "ಅಂದಾಜು: {{time}} ನಿಮಿಷಗಳು",
+    "pending": "ಬಾಕಿ ಇದೆ",
+    "alerts": {
+      "deliveredTitle": "ಆದೇಶ ಡೆಲಿವರಿ ಮಾಡಲಾಗಿದೆ! 🎉",
+      "deliveredMessage": "ನಿಮ್ಮ ಆದೇಶವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಡೆಲಿವರಿ ಮಾಡಲಾಗಿದೆ. ನಿಮ್ಮ ಊಟವನ್ನು ಆನಂದಿಸಿ!",
+      "leaveTitle": "ಟ್ರ್ಯಾಕಿಂಗ್ ಬಿಡಬೇಕೇ?",
+      "leaveMessage": "ನಿಮ್ಮ ಆದೇಶವು ಇನ್ನೂ ಡೆಲಿವರಿಯಾಗುತ್ತಿದೆ. ನೀವು ಖಂಡಿತವಾಗಿ ಬಿಡಲು ಬಯಸುವಿರಾ?",
+      "cancelTitle": "ಆದೇಶವನ್ನು ರದ್ದುಮಾಡಬೇಕೇ?",
+      "cancelMessage": "ನೀವು ಖಂಡಿತವಾಗಿ ಈ ಆದೇಶವನ್ನು ರದ್ದುಮಾಡಲು ಬಯಸುವಿರಾ? ಈ ಕ್ರಮವನ್ನು ಹಿಂದೆ ತೆಗೆದುಹಾಕಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+      "yes": "ಹೌದು",
+      "no": "ಇಲ್ಲ",
+      "ok": "ಸರಿ",
+      "leave": "ಬಿಡಿ"
+    }
+  },
+  "bookings": {
+    "title": "ನನ್ನ ಬುಕಿಂಗ್‌ಗಳು",
+    "emptyTitle": "ಇನ್ನೂ ಯಾವುದೇ ಬುಕಿಂಗ್‌ಗಳಿಲ್ಲ",
+    "emptySubtitle": "ನಿಮ್ಮ ಮೀಸಲಾತಿಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಲು ಟೇಬಲ್ ಬುಕ್ ಮಾಡಿ",
+    "cancel": "ರದ್ದುಮಾಡಿ",
+    "seat": "ಸೀಟ್ {{number}}",
+    "items": "{{count}} ಐಟಂ",
+    "itemsPlural": "{{count}} ಐಟಂಗಳು",
+    "orderItems": "ಆದೇಶ ಐಟಂಗಳು:",
+    "totalAmount": "₹{{amount}}",
+    "status": {
+      "active": "ಸಕ್ರಿಯ",
+      "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+      "cancelled": "ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
+    },
+    "alerts": {
+      "errorTitle": "ದೋಷ",
+      "errorMessage": "ಬುಕಿಂಗ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+      "cancelTitle": "ಬುಕಿಂಗ್ ರದ್ದುಮಾಡಬೇಕೇ?",
+      "cancelMessage": "ನೀವು ಖಂಡಿತವಾಗಿ ಈ ಬುಕಿಂಗ್ ಅನ್ನು ರದ್ದುಮಾಡಲು ಬಯಸುವಿರಾ?",
+      "cancelSuccess": "ಬುಕಿಂಗ್ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ",
+      "cancelSuccessMessage": "ನಿಮ್ಮ ಬುಕಿಂಗ್ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರದ್ದುಮಾಡಲಾಗಿದೆ.",
+      "cancelError": "ಬುಕಿಂಗ್ ರದ್ದುಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+    }
+  },
+  "dineIn": {
+    "title": "ಡೈನ್ ಇನ್",
+    "subtitle": "ಟೇಬಲ್ ಬುಕ್ ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ ಊಟವನ್ನು ಆನಂದಿಸಿ",
+    "selectSeat": "ಸೀಟ್ ಆಯ್ಕೆಮಾಡಿ",
+    "selectDateTime": "ದಿನಾಂಕ ಮತ್ತು ಸಮಯ ಆಯ್ಕೆಮಾಡಿ",
+    "selectDuration": "ಅವಧಿ ಆಯ್ಕೆಮಾಡಿ",
+    "bookingSummary": "ಬುಕಿಂಗ್ ಸಾರಾಂಶ",
+    "dateTime": "ದಿನಾಂಕ ಮತ್ತು ಸಮಯ",
+    "items": "ಐಟಂಗಳು",
+    "seatNumber": "ಸೀಟ್ ಸಂಖ್ಯೆ",
+    "duration": "ಅವಧಿ",
+    "hours": "{{count}} ಗಂಟೆ(ಗಳು)",
+    "totalAmount": "ಒಟ್ಟು ಮೊತ್ತ",
+    "confirmBooking": "ಬುಕಿಂಗ್ ಖಚಿತಪಡಿಸಿ - ಸೀಟ್ {{number}}",
+    "selectASeat": "ಸೀಟ್ ಆಯ್ಕೆಮಾಡಿ",
+    "errors": {
+      "loadSeatsTitle": "ದೋಷ",
+      "loadSeatsMessage": "ಸೀಟ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+      "noSeatTitle": "ಯಾವುದೇ ಸೀಟ್ ಆಯ್ಕೆಮಾಡಲಿಲ್ಲ",
+      "noSeatMessage": "ಮುಂದುವರಿಸಲು ದಯವಿಟ್ಟು ಸೀಟ್ ಆಯ್ಕೆಮಾಡಿ.",
+      "emptyCartTitle": "ಖಾಲಿ ಕಾರ್ಟ್",
+      "emptyCartMessage": "ದಯವಿಟ್ಟು ಮೊದಲು ನಿಮ್ಮ ಕಾರ್ಟ್‌ಗೆ ಐಟಂಗಳನ್ನು ಸೇರಿಸಿ.",
+      "invalidTimeTitle": "ಅಮಾನ್ಯ ಸಮಯ",
+      "invalidTimeMessage": "ದಯವಿಟ್ಟು ಭವಿಷ್ಯದ ದಿನಾಂಕ ಮತ್ತು ಸಮಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+      "bookingFailedTitle": "ಬುಕಿಂಗ್ ವಿಫಲವಾಗಿದೆ",
+      "bookingFailedMessage": "ಸೀಟ್ ಬುಕ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+    },
+    "alerts": {
+      "confirmTitle": "ಬುಕಿಂಗ್ ಖಚಿತಪಡಿಸಿ",
+      "confirmMessage": "ನೀವು ಖಂಡಿತವಾಗಿ {{date}} ರಂದು {{time}} ಗೆ ಸೀಟ್ {{number}} ಬುಕ್ ಮಾಡಲು ಬಯಸುವಿರಾ?",
+      "successTitle": "ಬುಕಿಂಗ್ ಖಚಿತಪಡಿಸಲಾಗಿದೆ! 🎉",
+      "successMessage": "ನಿಮ್ಮ ಟೇಬಲ್ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬುಕ್ ಮಾಡಲಾಗಿದೆ.",
+      "cancel": "ರದ್ದುಮಾಡಿ",
+      "confirm": "ಖಚಿತಪಡಿಸಿ",
+      "ok": "ಸರಿ"
+    }
+  },
+  "account": {
+    "title": "ಖಾತೆ",
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "security": "ಭದ್ರತೆ",
+    "preferences": "ಆದ್ಯತೆಗಳು",
+    "support": "ಬೆಂಬಲ",
+    "logout": "ಲಾಗ್‌ಔಟ್",
+    "menuItems": {
+      "myOrders": "ನನ್ನ ಆದೇಶಗಳು",
+      "myBookings": "ನನ್ನ ಬುಕಿಂಗ್‌ಗಳು",
+      "editProfile": "ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ",
+      "notifications": "ಅಧಿಸೂಚನೆಗಳು",
+      "paymentMethods": "ಪಾವತಿ ವಿಧಾನಗಳು",
+      "addresses": "ವಿಳಾಸಗಳು"
+    },
+    "biometric": {
+      "login": "{{type}} ಲಾಗಿನ್",
+      "notAvailable": "ಈ ಸಾಧನದಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ",
+      "notSetup": "ಸಾಧನದ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ {{type}} ಸೆಟಪ್ ಮಾಡಿ",
+      "enabled": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+      "enabledMessage": "{{type}} ಲಾಗಿನ್ ಈಗ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.",
+      "disabled": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+      "disabledMessage": "{{type}} ಲಾಗಿನ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.",
+      "cancelled": "ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ",
+      "cancelledMessage": "{{type}} ಲಾಗಿನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ.",
+      "notAvailableAlert": "ಲಭ್ಯವಿಲ್ಲ",
+      "notAvailableMessage": "ಬಯೋಮೆಟ್ರಿಕ್ ದೃಢೀಕರಣವು ಈ ಸಾಧನದಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.",
+      "notSetupAlert": "ಸೆಟಪ್ ಮಾಡಿಲ್ಲ",
+      "notSetupMessage": "ದಯವಿಟ್ಟು ಮೊದಲು ನಿಮ್ಮ ಸಾಧನದ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ {{type}} ಸೆಟಪ್ ಮಾಡಿ."
+    },
+    "alerts": {
+      "logoutTitle": "ಲಾಗ್‌ಔಟ್",
+      "logoutMessage": "ನೀವು ಖಂಡಿತವಾಗಿ ಲಾಗ್‌ಔಟ್ ಮಾಡಲು ಬಯಸುವಿರಾ?",
+      "comingSoonTitle": "ಬೇಗನೆ ಬರುತ್ತಿದೆ",
+      "comingSoonMessage": "{{feature}} ಬೇಗನೆ ಲಭ್ಯವಾಗುತ್ತದೆ!",
+      "cancel": "ರದ್ದುಮಾಡಿ",
+      "logout": "ಲಾಗ್‌ಔಟ್"
+    }
+  },
+  "notifications": {
+    "title": "ಅಧಿಸೂಚನೆಗಳು",
+    "emptyTitle": "ಯಾವುದೇ ಅಧಿಸೂಚನೆಗಳಿಲ್ಲ",
+    "emptySubtitle": "ನೀವು ಸಂಪೂರ್ಣವಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ!",
+    "markAsRead": "ಓದಿದಂತೆ ಗುರುತಿಸಿ",
+    "types": {
+      "order": "ಆದೇಶ ನವೀಕರಣ",
+      "booking": "ಬುಕಿಂಗ್ ನವೀಕರಣ",
+      "promotion": "ಪ್ರಚಾರ",
+      "general": "ಅಧಿಸೂಚನೆ"
+    }
+  },
+  "validation": {
+    "emailRequired": "ಇಮೇಲ್ ಅಗತ್ಯವಿದೆ",
+    "emailInvalid": "ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಇಮೇಲ್ ನಮೂದಿಸಿ",
+    "passwordRequired": "ಪಾಸ್‌ವರ್ಡ್ ಅಗತ್ಯವಿದೆ",
+    "passwordMinLength": "ಪಾಸ್‌ವರ್ಡ್ ಕನಿಷ್ಠ 6 ಅಕ್ಷರಗಳಿರಬೇಕು",
+    "nameRequired": "ಹೆಸರು ಅಗತ್ಯವಿದೆ",
+    "nameMinLength": "ಹೆಸರು ಕನಿಷ್ಠ 2 ಅಕ್ಷರಗಳಿರಬೇಕು"
+  },
+  "errors": {
+    "auth": {
+      "userNotFound": "ಬಳಕೆದಾರ ಕಂಡುಬಂಡಿಲ್ಲ. ದಯವಿಟ್ಟು ಮೊದಲು ಸೈನ್ ಅಪ್ ಮಾಡಿ.",
+      "invalidPassword": "ಅಮಾನ್ಯ ಪಾಸ್‌ವರ್ಡ್",
+      "userExists": "ಬಳಕೆದಾರ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದಾರೆ. ದಯವಿಟ್ಟು ಲಾಗಿನ್ ಮಾಡಿ.",
+      "loginFailed": "ಲಾಗಿನ್ ವಿಫಲವಾಗಿದೆ",
+      "signupFailed": "ಸೈನಪ್ ವಿಫಲವಾಗಿದೆ"
+    },
+    "generic": {
+      "somethingWentWrong": "ಏನೋ ತಪ್ಪಾಗಿದೆ",
+      "tryAgain": "ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ",
+      "networkError": "ನೆಟ್‌ವರ್ಕ್ ದೋಷ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ."
+    }
+  },
+  "common": {
+    "ok": "ಸರಿ",
+    "cancel": "ರದ್ದುಮಾಡಿ",
+    "confirm": "ಖಚಿತಪಡಿಸಿ",
+    "yes": "ಹೌದು",
+    "no": "ಇಲ್ಲ",
+    "save": "ಉಳಿಸಿ",
+    "delete": "ಅಳಿಸಿ",
+    "edit": "ಸಂಪಾದಿಸಿ",
+    "close": "ಮುಚ್ಚಿ",
+    "back": "ಹಿಂದಕ್ಕೆ",
+    "next": "ಮುಂದೆ",
+    "done": "ಮುಗಿದಿದೆ",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "retry": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ",
+    "refresh": "ರಿಫ್ರೆಶ್ ಮಾಡಿ",
+    "search": "ಹುಡುಕಿ",
+    "filter": "ಫಿಲ್ಟರ್",
+    "sort": "ವಿಂಗಡಿಸಿ",
+    "apply": "ಅನ್ವಯಿಸಿ",
+    "clear": "ತೆರವುಗೊಳಿಸಿ",
+    "viewAll": "ಎಲ್ಲವನ್ನು ವೀಕ್ಷಿಸಿ",
+    "seeMore": "ಇನ್ನಷ್ಟು ನೋಡಿ",
+    "seeLess": "ಕಡಿಮೆ ನೋಡಿ"
+  },
+  "payment": {
+    "methods": {
+      "cod": "ಡೆಲಿವರಿಯಲ್ಲಿ ನಗದು",
+      "card": "ಕ್ರೆಡಿಟ್/ಡೆಬಿಟ್ ಕಾರ್ಡ್",
+      "upi": "UPI",
+      "wallet": "ವಾಲೆಟ್"
+    },
+    "selectMethod": "ಪಾವತಿ ವಿಧಾನವನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "proceedToPay": "ಪಾವತಿಸಲು ಮುಂದುವರಿಯಿರಿ"
+  },
+  "delivery": {
+    "deliveryTo": "ಇಲ್ಲಿಗೆ ಡೆಲಿವರಿ",
+    "changeAddress": "ವಿಳಾಸ ಬದಲಾಯಿಸಿ",
+    "addAddress": "ವಿಳಾಸ ಸೇರಿಸಿ",
+    "deliveryInstructions": "ಡೆಲಿವರಿ ಸೂಚನೆಗಳು",
+    "instructionsPlaceholder": "ಡೆಲಿವರಿ ಸೂಚನೆಗಳನ್ನು ಸೇರಿಸಿ (ಐಚ್ಛಿಕ)"
+  },
+  "coupons": {
+    "title": "ಕೂಪನ್ ಅನ್ವಯಿಸಿ",
+    "available": "ಲಭ್ಯವಿರುವ ಕೂಪನ್‌ಗಳು",
+    "enterCode": "ಕೂಪನ್ ಕೋಡ್ ನಮೂದಿಸಿ",
+    "apply": "ಅನ್ವಯಿಸಿ",
+    "applied": "ಕೂಪನ್ ಅನ್ವಯಿಸಲಾಗಿದೆ",
+    "invalid": "ಅಮಾನ್ಯ ಕೂಪನ್ ಕೋಡ್",
+    "expired": "ಈ ಕೂಪನ್ ಅವಧಿ ಮೀರಿದೆ",
+    "notApplicable": "ಈ ಕೂಪನ್ ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+    "minOrder": "ಕನಿಷ್ಠ ಆದೇಶ ಮೌಲ್ಯ: ₹{{amount}}",
+    "save": "₹{{amount}} ಉಳಿಸಿ",
+    "off": "{{percent}}% ರಿಯಾಯಿತಿ"
+  }
+}

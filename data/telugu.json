@@ -1,0 +1,349 @@
+{
+  "auth": {
+    "login": {
+      "title": "లాగిన్",
+      "subtitle": "దయచేసి మీ ఇప్పటికే ఉన్న ఖాతాకు సైన్ ఇన్ చేయండి",
+      "emailLabel": "ఇమెయిల్",
+      "emailPlaceholder": "example@gmail.com",
+      "passwordLabel": "పాస్‌వర్డ్",
+      "passwordPlaceholder": "•••లు•••లు",
+      "loginButton": "లాగిన్",
+      "footerText": "మీకు ఖాతా లేదా?",
+      "footerLink": "సైన్ అప్"
+    },
+    "signup": {
+      "title": "సైన్ అప్",
+      "subtitle": "దయచేసి కొత్త ఖాతాను సృష్టించండి",
+      "nameLabel": "పేరు",
+      "namePlaceholder": "జాన్ డో",
+      "emailLabel": "ఇమెయిల్",
+      "emailPlaceholder": "example@gmail.com",
+      "passwordLabel": "పాస్‌వర్డ్",
+      "passwordPlaceholder": "•••లు•••లు",
+      "signupButton": "సైన్ అప్",
+      "footerText": "మీకు ఇప్పటికే ఖాతా ఉందా?",
+      "footerLink": "లాగిన్"
+    },
+    "biometricLock": {
+      "appName": "FooD",
+      "welcomeBack": "స్వాగతం, {{name}} 👋",
+      "title": "యాప్ లాక్ చేయబడింది",
+      "subtitle": "కొనసాగించడానికి {{biometricType}} ఉపయోగించండి",
+      "scanButton": "అన్‌లాక్ చేయడానికి స్కాన్ చేయండి",
+      "usePasswordButton": "పాస్‌వర్డ్ ఉపయోగించండి",
+      "signOutRequired": "సైన్ అవుట్ అవసరం",
+      "signOutMessage": "పాస్‌వర్డ్ లాగిన్ ఉపయోగించడానికి మీరు మొదట సైన్ అవుట్ చేయాలి. కొనసాగాలా?",
+      "cancel": "రద్దు చేయండి",
+      "signOut": "సైన్ అవుట్"
+    }
+  },
+  "tabs": {
+    "home": "హోమ్",
+    "explorer": "ఎక్స్‌ప్లోరర్",
+    "cart": "కార్ట్",
+    "account": "ఖాతా"
+  },
+  "home": {
+    "restaurantName": "పర్ఫెక్ట్ పేరింగ్",
+    "rating": "4.0",
+    "reviewCount": "31K+ ద్వారా",
+    "location": "2.8 కిమీ • జేపీ నగర్",
+    "deliveryTime": "20-25 నిమిషాలు • తర్వాత షెడ్యూల్ చేయండి",
+    "trustBadge": "గత 100 ఆర్డర్లు ఫిర్యాదులు లేకుండా",
+    "perfectPairingsTitle": "మీ కోసం పర్ఫెక్ట్ పేరింగ్స్",
+    "menuButton": "మెనూ",
+    "freeDeliveryText": "₹49 కంటే ఎక్కువకు ఉచిత డెలివరీ పొందండి",
+    "goldText": "GOLD"
+  },
+  "explorer": {
+    "searchPlaceholder": "వంటకాలను శోధించండి...",
+    "allCategory": "అన్నీ",
+    "totalItems": "మొత్తం {{count}} అంశాలు",
+    "filters": "ఫిల్టర్లు",
+    "noResults": "అంశాలు కనుగొనబడలేదు",
+    "noResultsSubtitle": "మీ ఫిల్టర్లను సర్దుపోవడానికి ప్రయత్నించండి"
+  },
+  "cart": {
+    "title": "కార్ట్",
+    "emptyTitle": "మీ కార్ట్ ఖాళీగా ఉంది",
+    "emptySubtitle": "ప్రారంభించడానికి అంశాలను జోడించండి",
+    "clearCart": "కార్ట్ శుభ్రపరచండి",
+    "clearCartConfirm": "మీరు ఖచ్చితంగా మీ కార్ట్ నుండి అన్ని అంశాలను తీసివేయాలనుకుంటున్నారా?",
+    "cancel": "రద్దు చేయండి",
+    "clear": "శుభ్రపరచండి",
+    "dineInButton": "డైన్ ఇన్",
+    "orderButton": "ఆర్డర్ ఇవ్వండి",
+    "billSummary": "బిల్లు సారాంశం",
+    "itemTotal": "అంశం మొత్తం",
+    "deliveryFee": "డెలివరీ ఫీజు",
+    "platformFee": "ప్లాట్‌ఫారమ్ ఫీజు",
+    "gst": "GST మరియు రెస్టారెంట్ ఛార్జీలు",
+    "discount": "డిస్కౌంట్",
+    "toPay": "చెల్లించాల్సినది",
+    "applyCoupon": "కూపన్ వర్తింపజేయండి",
+    "couponApplied": "కూపన్ వర్తింపజేయబడింది",
+    "removeCoupon": "తీసివేయండి",
+    "emptyCartAlert": "ఖాళీ కార్ట్",
+    "emptyCartMessage": "దయచేసి ముందుగా మీ కార్ట్‌లో అంశాలను జోడించండి.",
+    "locationRequired": "స్థానం అవసరం",
+    "locationMessage": "మీ ఆర్డర్‌ను డెలివరీ చేయడానికి మాకు మీ స్థానం అవసరం. దయచేసి సెట్టింగ్‌లలో లొకేషన్ యాక్సెస్‌ను ప్రారంభించండి.",
+    "tryAgain": "మళ్ళీ ప్రయత్నించండి",
+    "locationError": "లోపం",
+    "locationErrorMessage": "మీ స్థానాన్ని పొందడం సాధ్యం కాలేదు. దయచేసి మళ్ళీ ప్రయత్నించండి."
+  },
+  "menu": {
+    "prepTime": "తయారీ సమయం: {{time}} నిమిషాలు",
+    "discount": "{{percent}}% డిస్కౌంట్",
+    "addItem": "అంశాన్ని జోడించండి - ₹{{price}}",
+    "spicy": "ఖారం",
+    "reviews": "{{count}} సమీక్షలు",
+    "veg": "వెజ్",
+    "nonVeg": "నాన్-వెజ్"
+  },
+  "filters": {
+    "title": "ఫిల్టర్లు మరియు సార్టింగ్",
+    "clearAll": "అన్నింటినీ శుభ్రపరచండి",
+    "showResults": "{{count}} ఫలితాలను చూపండి",
+    "close": "మూసివేయండి",
+    "sortBy": "దీని ద్వారా సార్ట్ చేయండి",
+    "relevance": "సంబంధితత",
+    "priceLowToHigh": "ధర: తక్కువ నుండి ఎక్కువ",
+    "priceHighToLow": "ధర: ఎక్కువ నుండి తక్కువ",
+    "rating": "రేటింగ్",
+    "restaurantRating": "రెస్టారెంట్ రేటింగ్",
+    "rated35Plus": "3.5+ రేటెడ్",
+    "rated40Plus": "4.0+ రేటెడ్",
+    "offers": "ఆఫర్లు",
+    "dealsAndDiscounts": "డీల్స్ మరియు డిస్కౌంట్లు",
+    "foodType": "ఆహార రకం"
+  },
+  "orders": {
+    "title": "మీ ఆర్డర్లు",
+    "searchPlaceholder": "ఆర్డర్లను శోధించండి...",
+    "emptyTitle": "ఇంకా ఆర్డర్లు లేవు",
+    "emptySubtitle": "మీ చరిత్రను ఇక్కడ చూడటానికి ఆర్డర్ చేయండి",
+    "reorder": "తిరిగి ఆర్డర్ చేయండి",
+    "reorderComingSoon": "తిరిగి ఆర్డర్ చేయడం త్వరలో వస్తుంది!",
+    "errorLoading": "లోపం",
+    "errorLoadingMessage": "ఆర్డర్లను లోడ్ చేయడం విఫలమైంది. దయచేసి మళ్ళీ ప్రయత్నించండి.",
+    "status": {
+      "confirmed": "ఆర్డర్ నిర్ధారించబడింది",
+      "preparing": "మీ ఆర్డర్ తయారవుతోంది",
+      "outForDelivery": "డెలివరీ కోసం బయటకు",
+      "delivered": "డెలివరీ చేయబడింది",
+      "cancelled": "రద్దు చేయబడింది"
+    }
+  },
+  "orderTracking": {
+    "title": "ఆర్డర్ ట్రాకింగ్",
+    "orderStatus": "ఆర్డర్ స్థితి",
+    "distance": "దూరం: {{distance}} కిమీ",
+    "payment": "చెల్లింపు: డెలివరీపై నగదు",
+    "cancelOrder": "ఆర్డర్‌ను రద్దు చేయండి",
+    "backToHome": "హోమ్‌కు తిరిగి వెళ్ళండి",
+    "estimatedTime": "అంచనా: {{time}} నిమిషాలు",
+    "pending": "పెండింగ్‌లో ఉంది",
+    "alerts": {
+      "deliveredTitle": "ఆర్డర్ డెలివరీ అయింది! 🎉",
+      "deliveredMessage": "మీ ఆర్డర్ విజయవంతంగా డెలివరీ చేయబడింది. మీ భోజనాన్ని ఆనందించండి!",
+      "leaveTitle": "ట్రాకింగ్ వదిలేయాలా?",
+      "leaveMessage": "మీ ఆర్డర్ ఇంకా డెలివరీ అవుతోంది. మీరు ఖచ్చితంగా వదిలేయాలనుకుంటున్నారా?",
+      "cancelTitle": "ఆర్డర్‌ను రద్దు చేయాలా?",
+      "cancelMessage": "మీరు ఖచ్చితంగా ఈ ఆర్డర్‌ను రద్దు చేయాలనుకుంటున్నారా? ఈ చర్యను తిరిగి పొందడం సాధ్యం కాదు.",
+      "yes": "అవును",
+      "no": "వద్దు",
+      "ok": "సరే",
+      "leave": "వదిలివేయండి"
+    }
+  },
+  "bookings": {
+    "title": "నా బుకింగ్‌లు",
+    "emptyTitle": "ఇంకా బుకింగ్‌లు లేవు",
+    "emptySubtitle": "మీ రిజర్వేషన్‌లను ఇక్కడ చూడటానికి టేబుల్ బుక్ చేయండి",
+    "cancel": "రద్దు చేయండి",
+    "seat": "సీట్ {{number}}",
+    "items": "{{count}} అంశం",
+    "itemsPlural": "{{count}} అంశాలు",
+    "orderItems": "ఆర్డర్ అంశాలు:",
+    "totalAmount": "₹{{amount}}",
+    "status": {
+      "active": "చురుకుగా ఉంది",
+      "completed": "పూర్తయింది",
+      "cancelled": "రద్దు చేయబడింది"
+    },
+    "alerts": {
+      "errorTitle": "లోపం",
+      "errorMessage": "బుకింగ్‌లను లోడ్ చేయడం విఫలమైంది. దయచేసి మళ్ళీ ప్రయత్నించండి.",
+      "cancelTitle": "బుకింగ్‌ను రద్దు చేయాలా?",
+      "cancelMessage": "మీరు ఖచ్చితంగా ఈ బుకింగ్‌ను రద్దు చేయాలనుకుంటున్నారా?",
+      "cancelSuccess": "బుకింగ్ రద్దు చేయబడింది",
+      "cancelSuccessMessage": "మీ బుకింగ్ విజయవంతంగా రద్దు చేయబడింది.",
+      "cancelError": "బుకింగ్ రద్దు చేయడం విఫలమైంది. దయచేసి మళ్ళీ ప్రయత్నించండి."
+    }
+  },
+  "dineIn": {
+    "title": "డైన్ ఇన్",
+    "subtitle": "టేబుల్ బుక్ చేసి మీ భోజనాన్ని ఆనందించండి",
+    "selectSeat": "సీట్ ఎంచుకోండి",
+    "selectDateTime": "తేదీ మరియు సమయాన్ని ఎంచుకోండి",
+    "selectDuration": "వ్యవధిని ఎంచుకోండి",
+    "bookingSummary": "బుకింగ్ సారాంశం",
+    "dateTime": "తేదీ మరియు సమయం",
+    "items": "అంశాలు",
+    "seatNumber": "సీట్ సంఖ్య",
+    "duration": "వ్యవధి",
+    "hours": "{{count}} గంట(లు)",
+    "totalAmount": "మొత్తం మొత్తం",
+    "confirmBooking": "బుకింగ్‌ను నిర్ధారించండి - సీట్ {{number}}",
+    "selectASeat": "సీట్ ఎంచుకోండి",
+    "errors": {
+      "loadSeatsTitle": "లోపం",
+      "loadSeatsMessage": "సీట్లను లోడ్ చేయడం విఫలమైంది. దయచేసి మళ్ళీ ప్రయత్నించండి.",
+      "noSeatTitle": "సీట్ ఎంచుకోబడలేదు",
+      "noSeatMessage": "కొనసాగించడానికి దయచేసి సీట్ ఎంచుకోండి.",
+      "emptyCartTitle": "ఖాళీ కార్ట్",
+      "emptyCartMessage": "దయచేసి ముందుగా మీ కార్ట్‌లో అంశాలను జోడించండి.",
+      "invalidTimeTitle": "చెల్లని సమయం",
+      "invalidTimeMessage": "దయచేసి భవిష్యత్ తేదీ మరియు సమయాన్ని ఎంచుకోండి.",
+      "bookingFailedTitle": "బుకింగ్ విఫలమైంది",
+      "bookingFailedMessage": "సీట్ బుక్ చేయడం విఫలమైంది. దయచేసి మళ్ళీ ప్రయత్నించండి."
+    },
+    "alerts": {
+      "confirmTitle": "బుకింగ్‌ను నిర్ధారించండి",
+      "confirmMessage": "మీరు ఖచ్చితంగా {{date}} న {{time}} సీట్ {{number}} బుక్ చేయాలనుకుంటున్నారా?",
+      "successTitle": "బుకింగ్ నిర్ధారించబడింది! 🎉",
+      "successMessage": "మీ టేబుల్ విజయవంతంగా బుక్ చేయబడింది.",
+      "cancel": "రద్దు చేయండి",
+      "confirm": "నిర్ధారించండి",
+      "ok": "సరే"
+    }
+  },
+  "account": {
+    "title": "ఖాతా",
+    "profile": "ప్రొఫైల్",
+    "security": "భద్రత",
+    "preferences": "ప్రాధాన్యతలు",
+    "support": "మద్దతు",
+    "logout": "లాగ్‌అవుట్",
+    "menuItems": {
+      "myOrders": "నా ఆర్డర్లు",
+      "myBookings": "నా బుకింగ్‌లు",
+      "editProfile": "ప్రొఫైల్ సవరించండి",
+      "notifications": "నోటిఫికేషన్లు",
+      "paymentMethods": "చెల్లింపు పద్ధతులు",
+      "addresses": "చిరునామాలు"
+    },
+    "biometric": {
+      "login": "{{type}} లాగిన్",
+      "notAvailable": "ఈ పరికరంలో అందుబాటులో లేదు",
+      "notSetup": "పరికర సెట్టింగ్‌లలో {{type}} సెటప్ చేయండి",
+      "enabled": "ప్రారంభించబడింది",
+      "enabledMessage": "{{type}} లాగిన్ ఇప్పుడు ప్రారంభించబడింది.",
+      "disabled": "అప్రారంభించబడింది",
+      "disabledMessage": "{{type}} లాగిన్ అప్రారంభించబడింది.",
+      "cancelled": "రద్దు చేయబడింది",
+      "cancelledMessage": "{{type}} లాగిన్ ప్రారంభించబడలేదు.",
+      "notAvailableAlert": "అందుబాటులో లేదు",
+      "notAvailableMessage": "బయోమెట్రిక్ ధృవీకరణ ఈ పరికరంలో అందుబాటులో లేదు.",
+      "notSetupAlert": "సెటప్ చేయబడలేదు",
+      "notSetupMessage": "దయచేసి ముందుగా మీ పరికర సెట్టింగ్‌లలో {{type}} సెటప్ చేయండి."
+    },
+    "alerts": {
+      "logoutTitle": "లాగ్‌అవుట్",
+      "logoutMessage": "మీరు ఖచ్చితంగా లాగ్‌అవుట్ చేయాలనుకుంటున్నారా?",
+      "comingSoonTitle": "త్వరలో వస్తుంది",
+      "comingSoonMessage": "{{feature}} త్వరలో అందుబాటులోకి వస్తుంది!",
+      "cancel": "రద్దు చేయండి",
+      "logout": "లాగ్‌అవుట్"
+    }
+  },
+  "notifications": {
+    "title": "నోటిఫికేషన్లు",
+    "emptyTitle": "నోటిఫికేషన్లు లేవు",
+    "emptySubtitle": "మీరు పూర్తిగా నవీకరించబడ్డారు!",
+    "markAsRead": "చదివినట్లుగా గుర్తించండి",
+    "types": {
+      "order": "ఆర్డర్ నవీకరణ",
+      "booking": "బుకింగ్ నవీకరణ",
+      "promotion": "ప్రచారం",
+      "general": "నోటిఫికేషన్"
+    }
+  },
+  "validation": {
+    "emailRequired": "ఇమెయిల్ అవసరం",
+    "emailInvalid": "దయచేసి చెల్లుబాటు అయిన ఇమెయిల్ నమోదు చేయండి",
+    "passwordRequired": "పాస్‌వర్డ్ అవసరం",
+    "passwordMinLength": "పాస్‌వర్డ్ కనీసం 6 అక్షరాలు ఉండాలి",
+    "nameRequired": "పేరు అవసరం",
+    "nameMinLength": "పేరు కనీసం 2 అక్షరాలు ఉండాలి"
+  },
+  "errors": {
+    "auth": {
+      "userNotFound": "వినియోగదారు కనుగొనబడలేదు. దయచేసి ముందుగా సైన్ అప్ చేయండి.",
+      "invalidPassword": "చెల్లని పాస్‌వర్డ్",
+      "userExists": "వినియోగదారు ఇప్పటికే ఉన్నారు. దయచేసి లాగిన్ చేయండి.",
+      "loginFailed": "లాగిన్ విఫలమైంది",
+      "signupFailed": "సైనప్ విఫలమైంది"
+    },
+    "generic": {
+      "somethingWentWrong": "ఏదో తప్పు జరిగింది",
+      "tryAgain": "దయచేసి మళ్ళీ ప్రయత్నించండి",
+      "networkError": "నెట్‌వర్క్ లోపం. దయచేసి మీ కనెక్షన్‌ను తనిఖీ చేయండి."
+    }
+  },
+  "common": {
+    "ok": "సరే",
+    "cancel": "రద్దు చేయండి",
+    "confirm": "నిర్ధారించండి",
+    "yes": "అవును",
+    "no": "వద్దు",
+    "save": "సేవ్ చేయండి",
+    "delete": "తొలగించండి",
+    "edit": "సవరించండి",
+    "close": "మూసివేయండి",
+    "back": "వెనక్కి",
+    "next": "తదుపరి",
+    "done": "పూర్తయింది",
+    "loading": "లోడ్ అవుతోంది...",
+    "retry": "మళ్ళీ ప్రయత్నించండి",
+    "refresh": "రిఫ్రెష్ చేయండి",
+    "search": "శోధించండి",
+    "filter": "ఫిల్టర్",
+    "sort": "సార్ట్ చేయండి",
+    "apply": "వర్తింపజేయండి",
+    "clear": "శుభ్రపరచండి",
+    "viewAll": "అన్నింటినీ చూడండి",
+    "seeMore": "మరింత చూడండి",
+    "seeLess": "తక్కువ చూడండి"
+  },
+  "payment": {
+    "methods": {
+      "cod": "డెలివరీపై నగదు",
+      "card": "క్రెడిట్/డెబిట్ కార్డ్",
+      "upi": "UPI",
+      "wallet": "వాలెట్"
+    },
+    "selectMethod": "చెల్లింపు పద్ధతిని ఎంచుకోండి",
+    "proceedToPay": "చెల్లించడానికి ముందుకు వెళ్ళండి"
+  },
+  "delivery": {
+    "deliveryTo": "ఇక్కడికి డెలివరీ",
+    "changeAddress": "చిరునామా మార్చండి",
+    "addAddress": "చిరునామా జోడించండి",
+    "deliveryInstructions": "డెలివరీ సూచనలు",
+    "instructionsPlaceholder": "డెలివరీ సూచనలను జోడించండి (ఐచ్ఛిక)"
+  },
+  "coupons": {
+    "title": "కూపన్ వర్తింపజేయండి",
+    "available": "అందుబాటులో ఉన్న కూపన్లు",
+    "enterCode": "కూపన్ కోడ్ నమోదు చేయండి",
+    "apply": "వర్తింపజేయండి",
+    "applied": "కూపన్ వర్తింపజేయబడింది",
+    "invalid": "చెల్లని కూపన్ కోడ్",
+    "expired": "ఈ కూపన్ గడువు ముగిసింది",
+    "notApplicable": "ఈ కూపన్ వర్తింపజేయదు",
+    "minOrder": "కనిష్ఠ ఆర్డర్ విలువ: ₹{{amount}}",
+    "save": "₹{{amount}} ఆదా చేయండి",
+    "off": "{{percent}}% డిస్కౌంట్"
+  }
+}
