@@ -1403,7 +1403,7 @@
     "discount": 0,
     "finalAmount": 303,
     "paymentMethod": "cod",
-    "status": "ordered",
+    "status": "delivered",
     "deliveryLocation": {
       "latitude": 12.9006008,
       "longitude": 77.6011616
