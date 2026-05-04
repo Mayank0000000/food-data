@@ -2,9 +2,36 @@
   {
     "userId": "1776936153936",
     "userName": "mayank",
-    "items": [],
-    "totalItems": 0,
-    "totalAmount": 0,
-    "updatedAt": "2026-05-04T16:55:59.723Z"
+    "items": [
+      {
+        "id": 1777913765962,
+        "menuItem": {
+          "id": 12,
+          "name": "White sauce noodles",
+          "category": "Main Course",
+          "veg": false,
+          "price": 220,
+          "rating": [],
+          "feedback": [],
+          "prepTime": "22",
+          "discount": 0,
+          "description": {
+            "en": "Smooth noodles tossed in creamy white sauce with vegetables and seasonings.",
+            "hi": "सब्ज़ियों और मसालों के साथ क्रीमी व्हाइट सॉस में टॉस्ड स्मूथ नूडल्स।",
+            "kn": "ತರಕಾರಿಗಳು ಮತ್ತು ಸೀಜನಿಂಗ್‌ಗಳೊಂದಿಗೆ ಕ್ರೀಮಿ ವೈಟ್ ಸಾಸ್‌ನಲ್ಲಿ ಟಾಸ್ ಮಾಡಿದ ನಯವಾದ ನೂಡಲ್ಸ್‌ಗಳು.",
+            "te": "కూరగాయలు మరియు సీజనింగ్‌లతో క్రీమీ వైట్ సాస్‌లో టాస్ చేసిన స్మూత్ నూడిల్స్."
+          },
+          "reviews": 0,
+          "available": true,
+          "image": "https://images.pexels.com/photos/2092906/pexels-photo-2092906.jpeg",
+          "dishInfo": "Smooth noodles tossed in creamy white sauce with vegetables and seasonings."
+        },
+        "quantity": 1,
+        "addedAt": "2026-05-04T16:56:05.962Z"
+      }
+    ],
+    "totalItems": 1,
+    "totalAmount": 220,
+    "updatedAt": "2026-05-04T16:56:05.962Z"
   }
 ]
