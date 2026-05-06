@@ -18,5 +18,25 @@
     ],
     "totalAmount": 500,
     "id": "booking-1777524624361"
+  },
+  {
+    "userId": "1776936153936",
+    "userName": "mayank",
+    "seatNumber": 20,
+    "seatId": "seat-20",
+    "bookedAt": "2026-05-07T08:15:00.000Z",
+    "bookedUntil": "2026-05-07T10:15:00.000Z",
+    "status": "active",
+    "cartItems": [
+      {
+        "id": 1778059896880,
+        "name": "Salad Rice",
+        "price": 250,
+        "quantity": 1,
+        "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg"
+      }
+    ],
+    "totalAmount": 250,
+    "id": "booking-1778060865768"
   }
 ]
