@@ -359,5 +359,17 @@
     "id": "NOTIF_1778141526891_ovowji0w1",
     "isRead": false,
     "createdAt": "2026-05-07T08:12:06.891Z"
+  },
+  {
+    "userId": "1776936153936",
+    "type": "order",
+    "title": "Order Delivered!",
+    "body": "Your order has been delivered. Enjoy your meal!",
+    "data": {
+      "orderId": "ORD_1778141521890_6n3jsda1d"
+    },
+    "id": "NOTIF_1778141644783_bzoullo4d",
+    "isRead": false,
+    "createdAt": "2026-05-07T08:14:04.783Z"
   }
 ]
