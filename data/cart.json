@@ -54,10 +54,36 @@
         },
         "quantity": 1,
         "addedAt": "2026-05-07T09:09:09.872Z"
+      },
+      {
+        "id": 1778145041014,
+        "menuItem": {
+          "id": 11,
+          "name": "Naan & Butter Chicken",
+          "category": "Main Course",
+          "veg": false,
+          "price": 180,
+          "rating": [],
+          "feedback": [],
+          "prepTime": "20",
+          "discount": 0,
+          "description": {
+            "en": "Soft butter naan served with tender chicken cooked in creamy tomato butter sauce with aromatic spices.",
+            "hi": "सुगंधित मसालों के साथ क्रीमी टमाटर बटर सॉस में पके हुए नरम चिकन के साथ नरम बटर नान परोसा जाता है।",
+            "kn": "ಸುಗಂಧಿತ ಮಸಾಲೆಗಳೊಂದಿಗೆ ಕ್ರೀಮಿ ಟೊಮಾಟೋ ಬಟರ್ ಸಾಸ್‌ನಲ್ಲಿ ಬೇಯಿಸಿದ ಮೃದುವಾದ ಚಿಕನ್‌ನೊಂದಿಗೆ ಮೃದುವಾದ ಬಟರ್ ನಾನ್ ಬಡಿಸಲಾಗುತ್ತದೆ.",
+            "te": "సుగంధిత మసాలాలతో క్రీమీ టమాటో బటర్ సాస్‌లో వండిన టెండర్ చికెన్‌తో సాఫ్ట్ బటర్ నాన్ వడ్డబడుతుంది."
+          },
+          "reviews": 0,
+          "available": true,
+          "image": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg",
+          "dishInfo": "Soft butter naan served with tender chicken cooked in creamy tomato butter sauce with aromatic spices."
+        },
+        "quantity": 1,
+        "addedAt": "2026-05-07T09:10:41.014Z"
       }
     ],
-    "totalItems": 5,
-    "totalAmount": 1300,
-    "updatedAt": "2026-05-07T09:09:48.687Z"
+    "totalItems": 6,
+    "totalAmount": 1480,
+    "updatedAt": "2026-05-07T09:10:41.014Z"
   }
 ]
