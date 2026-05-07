@@ -26,7 +26,7 @@
           "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
           "dishInfo": "Fresh garden vegetables mixed with aromatic basmati rice, seasoned with herbs and spices for a healthy and flavorful meal."
         },
-        "quantity": 3,
+        "quantity": 4,
         "addedAt": "2026-05-07T08:32:25.285Z"
       },
       {
@@ -56,8 +56,8 @@
         "addedAt": "2026-05-07T09:09:09.872Z"
       }
     ],
-    "totalItems": 4,
-    "totalAmount": 1050,
-    "updatedAt": "2026-05-07T09:09:09.872Z"
+    "totalItems": 5,
+    "totalAmount": 1300,
+    "updatedAt": "2026-05-07T09:09:48.687Z"
   }
 ]
