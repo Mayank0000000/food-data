@@ -28,38 +28,10 @@
         },
         "quantity": 2,
         "addedAt": "2026-05-07T09:31:19.488Z"
-      },
-      {
-        "id": 1778146489978,
-        "menuItem": {
-          "id": 4,
-          "name": "Chicken Burger",
-          "category": "Snacks",
-          "veg": false,
-          "price": 150,
-          "rating": [],
-          "feedback": [],
-          "prepTime": "18",
-          "discount": 0,
-          "description": {
-            "en": "Crispy chicken fillet with lettuce, tomato, onion and mayo in a toasted sesame bun.",
-            "hi": "टोस्टेड सीसम बन में सलाद, टमाटर, प्याज और मेयोनेज़ के साथ कुरकुरा चिकन फिलेट।",
-            "kn": "ಟೋಸ್ಟೆಡ್ ಸೆಸಮ್ ಬನ್‌ನಲ್ಲಿ ಲೆಟ್ಯೂಸ್, ಟೊಮಾಟೋ, ಈರುಳ್ಳಿ ಮತ್ತು ಮೇಯೋನೆಸ್‌ನೊಂದಿಗೆ ಕುರುಕುರೆ ಚಿಕನ್ ಫಿಲ್ಲೆಟ್.",
-            "te": "టోస్టెడ్ సెసమ్ బన్‌లో లెట్యూస్, టమాటో, గడ్డాలు మరియు మేయోనెజ్‌తో క్రిస్పీ చికెన్ ఫిల్లెట్."
-          },
-          "reviews": 0,
-          "available": true,
-          "image": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg",
-          "dishInfo": "Crispy chicken fillet with lettuce, tomato, onion and mayo in a toasted sesame bun.",
-          "averageRating": 4,
-          "totalReviews": 1
-        },
-        "quantity": 1,
-        "addedAt": "2026-05-07T09:34:49.978Z"
       }
     ],
-    "totalItems": 3,
-    "totalAmount": 650,
-    "updatedAt": "2026-05-07T11:12:16.386Z"
+    "totalItems": 2,
+    "totalAmount": 500,
+    "updatedAt": "2026-05-07T11:12:18.196Z"
   }
 ]
