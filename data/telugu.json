@@ -233,6 +233,47 @@
       "paymentMethods": "చెల్లింపు పద్ధతులు",
       "addresses": "చిరునామాలు"
     },
+    "editProfile": {
+      "title": "ప్రొఫైల్ సవరించండి",
+      "personalInfo": "వ్యక్తిగత సమాచారం",
+      "nameLabel": "పేరు",
+      "namePlaceholder": "మీ పేరును నమోదు చేయండి",
+      "emailLabel": "ఇమెయిల్",
+      "emailPlaceholder": "మీ ఇమెయిల్ నమోదు చేయండి",
+      "phoneLabel": "ఫోన్",
+      "phonePlaceholder": "మీ ఫోన్ నంబర్ నమోదు చేయండి",
+      "changePassword": "పాస్‌వర్డ్ మార్చు",
+      "currentPasswordLabel": "ప్రస్తుత పాస్‌వర్డ్",
+      "currentPasswordPlaceholder": "ప్రస్తుత పాస్‌వర్డ్ నమోదు చేయండి",
+      "newPasswordLabel": "కొత్త పాస్‌వర్డ్",
+      "newPasswordPlaceholder": "కొత్త పాస్‌వర్డ్ నమోదు చేయండి",
+      "confirmPasswordLabel": "పాస్‌వర్డ్ నిర్ధారించండి",
+      "confirmPasswordPlaceholder": "కొత్త పాస్‌వర్డ్ నిర్ధారించండి",
+      "saveChanges": "మార్పులు భద్రపరచండి",
+      "cancel": "రద్దు చేయండి",
+      "validation": {
+        "nameRequired": "పేరు అవసరం",
+        "nameMinLength": "పేరు కనీసం 2 అక్షరాలు ఉండాలి",
+        "emailRequired": "ఇమెయిల్ అవసరం",
+        "emailInvalid": "దయచేసి చెల్లుబాటు అయ్యే ఇమెయిల్ నమోదు చేయండి",
+        "currentPasswordRequired": "ప్రస్తుత పాస్‌వర్డ్ అవసరం",
+        "newPasswordRequired": "కొత్త పాస్‌వర్డ్ అవసరం",
+        "newPasswordMinLength": "పాస్‌వర్డ్ కనీసం 6 అక్షరాలు ఉండాలి",
+        "passwordsDoNotMatch": "పాస్‌వర్డ్‌లు సరిపోలడం లేదు"
+      },
+      "alerts": {
+        "successTitle": "విజయం",
+        "profileUpdated": "ప్రొఫైల్ విజయవంతంగా నవీకరించబడింది!",
+        "passwordChanged": "పాస్‌వర్డ్ విజయవంతంగా మార్చబడింది!",
+        "errorTitle": "లోపం",
+        "updateFailed": "ప్రొఫైల్ నవీకరించడం విఫలమైంది. దయచేసి మళ్ళీ ప్రయత్నించండి.",
+        "invalidPassword": "ప్రస్తుత పాస్‌వర్డ్ తప్పు",
+        "discardTitle": "మార్పులను విస్మరించాలా?",
+        "discardMessage": "మీ వద్ద భద్రపరచని మార్పులు ఉన్నాయి. మీరు ఖచ్చితంగా వాటిని విస్మరించాలనుకుంటున్నారా?",
+        "discard": "విస్మరించండి",
+        "keepEditing": "సవరణ కొనసాగించండి"
+      }
+    },
     "biometric": {
       "login": "{{type}} లాగిన్",
       "notAvailable": "ఈ పరికరంలో అందుబాటులో లేదు",

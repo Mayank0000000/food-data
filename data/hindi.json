@@ -233,6 +233,47 @@
       "paymentMethods": "भुगतान विधियां",
       "addresses": "पते"
     },
+    "editProfile": {
+      "title": "प्रोफाइल संपादित करें",
+      "personalInfo": "व्यक्तिगत जानकारी",
+      "nameLabel": "नाम",
+      "namePlaceholder": "अपना नाम दर्ज करें",
+      "emailLabel": "ईमेल",
+      "emailPlaceholder": "अपना ईमेल दर्ज करें",
+      "phoneLabel": "फोन",
+      "phonePlaceholder": "अपना फोन नंबर दर्ज करें",
+      "changePassword": "पासवर्ड बदलें",
+      "currentPasswordLabel": "वर्तमान पासवर्ड",
+      "currentPasswordPlaceholder": "वर्तमान पासवर्ड दर्ज करें",
+      "newPasswordLabel": "नया पासवर्ड",
+      "newPasswordPlaceholder": "नया पासवर्ड दर्ज करें",
+      "confirmPasswordLabel": "पासवर्ड की पुष्टि करें",
+      "confirmPasswordPlaceholder": "नए पासवर्ड की पुष्टि करें",
+      "saveChanges": "परिवर्तन सहेजें",
+      "cancel": "रद्द करें",
+      "validation": {
+        "nameRequired": "नाम आवश्यक है",
+        "nameMinLength": "नाम कम से कम 2 अक्षरों का होना चाहिए",
+        "emailRequired": "ईमेल आवश्यक है",
+        "emailInvalid": "कृपया एक वैध ईमेल दर्ज करें",
+        "currentPasswordRequired": "वर्तमान पासवर्ड आवश्यक है",
+        "newPasswordRequired": "नया पासवर्ड आवश्यक है",
+        "newPasswordMinLength": "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए",
+        "passwordsDoNotMatch": "पासवर्ड मेल नहीं खाते"
+      },
+      "alerts": {
+        "successTitle": "सफलता",
+        "profileUpdated": "प्रोफाइल सफलतापूर्वक अपडेट किया गया!",
+        "passwordChanged": "पासवर्ड सफलतापूर्वक बदला गया!",
+        "errorTitle": "त्रुटि",
+        "updateFailed": "प्रोफाइल अपडेट करने में विफल। कृपया फिर से कोशिश करें।",
+        "invalidPassword": "वर्तमान पासवर्ड गलत है",
+        "discardTitle": "परिवर्तन त्यागें?",
+        "discardMessage": "आपके पास असहेजित परिवर्तन हैं। क्या आप वाकई उन्हें त्यागना चाहते हैं?",
+        "discard": "त्यागें",
+        "keepEditing": "संपादन जारी रखें"
+      }
+    },
     "biometric": {
       "login": "{{type}} लॉगिन",
       "notAvailable": "इस डिवाइस पर उपलब्ध नहीं",

@@ -233,6 +233,47 @@
       "paymentMethods": "ಪಾವತಿ ವಿಧಾನಗಳು",
       "addresses": "ವಿಳಾಸಗಳು"
     },
+    "editProfile": {
+      "title": "ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ",
+      "personalInfo": "ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ",
+      "nameLabel": "ಹೆಸರು",
+      "namePlaceholder": "ನಿಮ್ಮ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+      "emailLabel": "ಇಮೇಲ್",
+      "emailPlaceholder": "ನಿಮ್ಮ ಇಮೇಲ್ ನಮೂದಿಸಿ",
+      "phoneLabel": "ಫೋನ್",
+      "phonePlaceholder": "ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ",
+      "changePassword": "ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ",
+      "currentPasswordLabel": "ಪ್ರಸ್ತುತ ಪಾಸ್‌ವರ್ಡ್",
+      "currentPasswordPlaceholder": "ಪ್ರಸ್ತುತ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ",
+      "newPasswordLabel": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್",
+      "newPasswordPlaceholder": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ",
+      "confirmPasswordLabel": "ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ",
+      "confirmPasswordPlaceholder": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ",
+      "saveChanges": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ",
+      "cancel": "ರದ್ದುಮಾಡಿ",
+      "validation": {
+        "nameRequired": "ಹೆಸರು ಅಗತ್ಯ",
+        "nameMinLength": "ಹೆಸರು ಕನಿಷ್ಠ 2 ಅಕ್ಷರಗಳಿರಬೇಕು",
+        "emailRequired": "ಇಮೇಲ್ ಅಗತ್ಯ",
+        "emailInvalid": "ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಇಮೇಲ್ ನಮೂದಿಸಿ",
+        "currentPasswordRequired": "ಪ್ರಸ್ತುತ ಪಾಸ್‌ವರ್ಡ್ ಅಗತ್ಯ",
+        "newPasswordRequired": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ಅಗತ್ಯ",
+        "newPasswordMinLength": "ಪಾಸ್‌ವರ್ಡ್ ಕನಿಷ್ಠ 6 ಅಕ್ಷರಗಳಿರಬೇಕು",
+        "passwordsDoNotMatch": "ಪಾಸ್‌ವರ್ಡ್‌ಗಳು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ"
+      },
+      "alerts": {
+        "successTitle": "ಯಶಸ್ಸು",
+        "profileUpdated": "ಪ್ರೊಫೈಲ್ ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ!",
+        "passwordChanged": "ಪಾಸ್‌ವರ್ಡ್ ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಯಿಸಲಾಗಿದೆ!",
+        "errorTitle": "ದೋಷ",
+        "updateFailed": "ಪ್ರೊಫೈಲ್ ನವೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+        "invalidPassword": "ಪ್ರಸ್ತುತ ಪಾಸ್‌ವರ್ಡ್ ತಪ್ಪಾಗಿದೆ",
+        "discardTitle": "ಬದಲಾವಣೆಗಳನ್ನು ತಿರಸ್ಕರಿಸಬೇಕೇ?",
+        "discardMessage": "ನಿಮ್ಮ ಪಾಲಿಗೆ ಉಳಿಸದ ಬದಲಾವಣೆಗಳಿವೆ. ನೀವು ಖಂಡಿತವಾಗಿ ಅವುಗಳನ್ನು ತಿರಸ್ಕರಿಸಲು ಬಯಸುವಿರಾ?",
+        "discard": "ತಿರಸ್ಕರಿಸಿ",
+        "keepEditing": "ಸಂಪಾದನೆ ಮುಂದುವರಿಸಿ"
+      }
+    },
     "biometric": {
       "login": "{{type}} ಲಾಗಿನ್",
       "notAvailable": "ಈ ಸಾಧನದಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ",
