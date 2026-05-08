@@ -1,17 +1,1 @@
-[
-  {
-    "id": "ADDR_1778234231084_lq7vybabd",
-    "userId": "1776936153936",
-    "type": "home",
-    "label": "Address 1",
-    "addressLine1": "Lat: 12.930475, Long: 77.691961",
-    "city": "Current Location",
-    "state": "State",
-    "pincode": "000000",
-    "latitude": 12.9304746,
-    "longitude": 77.6919609,
-    "isDefault": true,
-    "createdAt": "2026-05-08T09:57:11.084Z",
-    "updatedAt": "2026-05-08T09:57:11.084Z"
-  }
-]
+[]
