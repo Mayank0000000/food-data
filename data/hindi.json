@@ -53,7 +53,9 @@
     "perfectPairingsTitle": "आपके लिए परफेक्ट पेयरिंग्स",
     "menuButton": "मेनू",
     "freeDeliveryText": "₹49 से ऊपर मुफ्त डिलीवरी पाएं",
-    "goldText": "GOLD"
+    "goldText": "GOLD",
+    "topRatedTitle": "टॉप रेटेड डिशेस",
+    "viewAll": "सभी देखें"
   },
   "explorer": {
     "searchPlaceholder": "व्यंजन खोजें...",
@@ -373,6 +375,27 @@
     "addAddress": "पता जोड़ें",
     "deliveryInstructions": "डिलीवरी निर्देश",
     "instructionsPlaceholder": "डिलीवरी निर्देश जोड़ें (वैकल्पिक)"
+  },
+  "addresses": {
+    "title": "मेरे पते",
+    "addNewAddress": "नया पता जोड़ें",
+    "setAsDefault": "डिफ़ॉल्ट के रूप में सेट करें",
+    "default": "डिफ़ॉल्ट",
+    "landmark": "लैंडमार्क",
+    "noAddresses": "कोई पता नहीं",
+    "noAddressesSubtitle": "त्वरित चेकआउट के लिए अपने डिलीवरी पते जोड़ें",
+    "deleteAddress": "पता हटाएं",
+    "deleteAddressConfirm": "क्या आप वाकई हटाना चाहते हैं",
+    "addressTypes": {
+      "home": "घर",
+      "work": "काम",
+      "other": "अन्य"
+    }
+  },
+  "bookmarks": {
+    "title": "बुकमार्क्स",
+    "noBookmarks": "अभी तक कोई बुकमार्क नहीं",
+    "noBookmarksSubtitle": "बाद में जल्दी खोजने के लिए अपने पसंदीदा व्यंजन सेव करें"
   },
   "coupons": {
     "title": "कूपन लागू करें",

@@ -53,7 +53,9 @@
     "perfectPairingsTitle": "ನಿಮಗಾಗಿ ಪರ್ಫೆಕ್ಟ್ ಪೇರಿಂಗ್‌ಗಳು",
     "menuButton": "ಮೆನು",
     "freeDeliveryText": "₹49 ಮೇಲೆ ಉಚಿತ ಡೆಲಿವರಿ ಪಡೆಯಿರಿ",
-    "goldText": "GOLD"
+    "goldText": "GOLD",
+    "topRatedTitle": "ಟಾಪ್ ರೇಟೆಡ್ ಡಿಷಸ್",
+    "viewAll": "ಎಲ್ಲಾ ವೀಕ್ಷಿಸಿ"
   },
   "explorer": {
     "searchPlaceholder": "ಖಾದ್ಯಗಳನ್ನು ಹುಡುಕಿ...",
@@ -373,6 +375,27 @@
     "addAddress": "ವಿಳಾಸ ಸೇರಿಸಿ",
     "deliveryInstructions": "ಡೆಲಿವರಿ ಸೂಚನೆಗಳು",
     "instructionsPlaceholder": "ಡೆಲಿವರಿ ಸೂಚನೆಗಳನ್ನು ಸೇರಿಸಿ (ಐಚ್ಛಿಕ)"
+  },
+  "addresses": {
+    "title": "ನನ್ನ ವಿಳಾಸಗಳು",
+    "addNewAddress": "ಹೊಸ ವಿಳಾಸ ಸೇರಿಸಿ",
+    "setAsDefault": "ಡಿಫಾಲ್ಟ್ ಆಗಿ ಸೆಟ್ ಮಾಡಿ",
+    "default": "ಡಿಫಾಲ್ಟ್",
+    "landmark": "ಲ್ಯಾಂಡ್‌ಮಾರ್ಕ್",
+    "noAddresses": "ಯಾವುದೇ ವಿಳಾಸಗಳಿಲ್ಲ",
+    "noAddressesSubtitle": "ವೇಗದ ಚೆಕ್‌ಔಟ್‌ಗಾಗಿ ನಿಮ್ಮ ಡೆಲಿವರಿ ವಿಳಾಸಗಳನ್ನು ಸೇರಿಸಿ",
+    "deleteAddress": "ವಿಳಾಸವನ್ನು ಅಳಿಸಿ",
+    "deleteAddressConfirm": "ನೀವು ಖಂಡಿತವಾಗಿ ಅಳಿಸಲು ಬಯಸುವಿರಾ",
+    "addressTypes": {
+      "home": "ಮನೆ",
+      "work": "ಕೆಲಸ",
+      "other": "ಇತರೆ"
+    }
+  },
+  "bookmarks": {
+    "title": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು",
+    "noBookmarks": "ಇನ್ನೂ ಯಾವುದೇ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳಿಲ್ಲ",
+    "noBookmarksSubtitle": "ನಂತರ ತ್ವರಿತವಾಗಿ ಹುಡುಕಲು ನಿಮ್ಮ ಪ್ರಿಯವಾದ ಖಾದ್ಯಗಳನ್ನು ಉಳಿಸಿ"
   },
   "coupons": {
     "title": "ಕೂಪನ್ ಅನ್ವಯಿಸಿ",

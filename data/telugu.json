@@ -53,7 +53,9 @@
     "perfectPairingsTitle": "మీ కోసం పర్ఫెక్ట్ పేరింగ్స్",
     "menuButton": "మెనూ",
     "freeDeliveryText": "₹49 కంటే ఎక్కువకు ఉచిత డెలివరీ పొందండి",
-    "goldText": "GOLD"
+    "goldText": "GOLD",
+    "topRatedTitle": "టాప్ రేటెడ్ డిషెస్",
+    "viewAll": "అన్నీ చూడండి"
   },
   "explorer": {
     "searchPlaceholder": "వంటకాలను శోధించండి...",
@@ -373,6 +375,27 @@
     "addAddress": "చిరునామా జోడించండి",
     "deliveryInstructions": "డెలివరీ సూచనలు",
     "instructionsPlaceholder": "డెలివరీ సూచనలను జోడించండి (ఐచ్ఛిక)"
+  },
+  "addresses": {
+    "title": "నా చిరునామాలు",
+    "addNewAddress": "కొత్త చిరునామా జోడించండి",
+    "setAsDefault": "డిఫాల్ట్‌గా సెట్ చేయండి",
+    "default": "డిఫాల్ట్",
+    "landmark": "ల్యాండ్‌మార్క్",
+    "noAddresses": "చిరునామాలు లేవు",
+    "noAddressesSubtitle": "వేగవంతమైన చెక్ఔట్ కోసం మీ డెలివరీ చిరునామాలను జోడించండి",
+    "deleteAddress": "చిరునామాను తొలగించండి",
+    "deleteAddressConfirm": "మీరు ఖచ్చితంగా తొలగించాలనుకుంటున్నారా",
+    "addressTypes": {
+      "home": "ఇల్లు",
+      "work": "పని",
+      "other": "ఇతర"
+    }
+  },
+  "bookmarks": {
+    "title": "బుక్‌మార్క్‌లు",
+    "noBookmarks": "ఇంకా బుక్‌మార్క్‌లు లేవు",
+    "noBookmarksSubtitle": "తర్వాత వేగవంతంగా కనుగొనడానికి మీకు ఇష్టమైన వంటకాలను సేవ్ చేయండి"
   },
   "coupons": {
     "title": "కూపన్ వర్తింపజేయండి",
