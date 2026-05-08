@@ -233,7 +233,12 @@
       "editProfile": "प्रोफाइल संपादित करें",
       "notifications": "सूचनाएं",
       "paymentMethods": "भुगतान विधियां",
-      "addresses": "पते"
+      "addresses": "पते",
+      "bookmarks": "बुकमार्क्स",
+      "bookmarksSubtitle": "आपके पसंदीदा व्यंजन",
+      "customerSupport": "ग्राहक सहायता",
+      "customerSupportSubtitle": "हमारे AI सहायक से चैट करें",
+      "language": "भाषा"
     },
     "editProfile": {
       "title": "प्रोफाइल संपादित करें",

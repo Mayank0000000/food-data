@@ -233,7 +233,12 @@
       "editProfile": "ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ",
       "notifications": "ಅಧಿಸೂಚನೆಗಳು",
       "paymentMethods": "ಪಾವತಿ ವಿಧಾನಗಳು",
-      "addresses": "ವಿಳಾಸಗಳು"
+      "addresses": "ವಿಳಾಸಗಳು",
+      "bookmarks": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು",
+      "bookmarksSubtitle": "ನಿಮ್ಮ ಪ್ರಿಯವಾದ ಖಾದ್ಯಗಳು",
+      "customerSupport": "ಗ್ರಾಹಕ ಬೆಂಬಲ",
+      "customerSupportSubtitle": "ನಮ್ಮ AI ಸಹಾಯಕನೊಂದಿಗೆ ಚಾಟ್ ಮಾಡಿ",
+      "language": "ಭಾಷೆ"
     },
     "editProfile": {
       "title": "ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ",

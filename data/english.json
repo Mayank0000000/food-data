@@ -233,7 +233,12 @@
       "editProfile": "Edit Profile",
       "notifications": "Notifications",
       "paymentMethods": "Payment Methods",
-      "addresses": "Addresses"
+      "addresses": "Addresses",
+      "bookmarks": "Bookmarks",
+      "bookmarksSubtitle": "Your favorite dishes",
+      "customerSupport": "Customer Support",
+      "customerSupportSubtitle": "Chat with our AI assistant",
+      "language": "Language"
     },
     "editProfile": {
       "title": "Edit Profile",

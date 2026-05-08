@@ -233,7 +233,12 @@
       "editProfile": "ప్రొఫైల్ సవరించండి",
       "notifications": "నోటిఫికేషన్లు",
       "paymentMethods": "చెల్లింపు పద్ధతులు",
-      "addresses": "చిరునామాలు"
+      "addresses": "చిరునామాలు",
+      "bookmarks": "బుక్‌మార్క్‌లు",
+      "bookmarksSubtitle": "మీకు ఇష్టమైన వంటకాలు",
+      "customerSupport": "కస్టమర్ సపోర్ట్",
+      "customerSupportSubtitle": "మా AI అసిస్టెంట్‌తో చాట్ చేయండి",
+      "language": "భాష"
     },
     "editProfile": {
       "title": "ప్రొఫైల్ సవరించండి",
