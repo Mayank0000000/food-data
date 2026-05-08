@@ -28,20 +28,5 @@
     "isDefault": false,
     "createdAt": "2026-05-08T10:10:30.846Z",
     "updatedAt": "2026-05-08T10:10:30.846Z"
-  },
-  {
-    "id": "ADDR_1778235172695_ppibn92d5",
-    "userId": "1776936153936",
-    "type": "home",
-    "label": "Address 4",
-    "addressLine1": "12/1-12/2",
-    "city": "Bengaluru",
-    "state": "Karnataka",
-    "pincode": "560103",
-    "latitude": 12.9304757,
-    "longitude": 77.691947,
-    "isDefault": false,
-    "createdAt": "2026-05-08T10:12:52.695Z",
-    "updatedAt": "2026-05-08T10:12:52.695Z"
   }
 ]
