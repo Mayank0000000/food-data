@@ -28,5 +28,20 @@
     "isDefault": false,
     "createdAt": "2026-05-08T10:08:45.383Z",
     "updatedAt": "2026-05-08T10:08:45.383Z"
+  },
+  {
+    "id": "ADDR_1778235030846_oaddp0i05",
+    "userId": "1776936153936",
+    "type": "home",
+    "label": "Address 3",
+    "addressLine1": "Location: 12.9305, 77.6920",
+    "city": "Current Location",
+    "state": "State",
+    "pincode": "000000",
+    "latitude": 12.9304775,
+    "longitude": 77.6920115,
+    "isDefault": false,
+    "createdAt": "2026-05-08T10:10:30.846Z",
+    "updatedAt": "2026-05-08T10:10:30.846Z"
   }
 ]
