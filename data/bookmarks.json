@@ -1,0 +1,31 @@
+[
+  {
+    "id": "bookmark_1778214565950_1776936153936",
+    "userId": "1776936153936",
+    "menuItemId": 5,
+    "menuItem": {
+      "id": 5,
+      "name": "Margherita Pizza",
+      "category": "Pizza",
+      "veg": true,
+      "price": 280,
+      "rating": [],
+      "feedback": [],
+      "prepTime": "20",
+      "discount": 40,
+      "description": {
+        "en": "Classic Italian pizza with fresh mozzarella, tomato sauce and basil leaves on a crispy thin crust.",
+        "hi": "कुरकुरे पतली क्रस्ट पर ताज़ा मोज़ेरेला, टमाटर की सॉस और तुलसी के पत्तों के साथ क्लासिक इटैलियन पिज़्ज़ा।",
+        "kn": "ಕುರುಕುರೆ ತೆಳ್ಳ ಕ್ರಸ್ಟ್‌ನಲ್ಲಿ ತಾಜಾ ಮೊಜಾರೆಲ್ಲಾ, ಟೊಮಾಟೋ ಸಾಸ್ ಮತ್ತು ತುಲಸಿ ಎಲೆಗಳೊಂದಿಗೆ ಶಾಸ್ತ್ರೀಯ ಇಟಾಲಿಯನ್ ಪಿಜ್ಜಾ.",
+        "te": "క్రిస్పీ పొల్లి క్రస్ట్‌పై తాజా మొజారెల్లా, టమాటో సాస్ మరియు తులసి ఆకులతో క్లాసిక్ ఇటాలియన్ పిజ్జా."
+      },
+      "reviews": 0,
+      "available": true,
+      "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
+      "dishInfo": "Classic Italian pizza with fresh mozzarella, tomato sauce and basil leaves on a crispy thin crust.",
+      "averageRating": 5,
+      "totalReviews": 3
+    },
+    "createdAt": "2026-05-08T04:29:25.950Z"
+  }
+]
