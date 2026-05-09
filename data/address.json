@@ -13,5 +13,21 @@
     "isDefault": true,
     "createdAt": "2026-05-08T10:16:02.420Z",
     "updatedAt": "2026-05-08T10:16:02.420Z"
+  },
+  {
+    "id": "ADDR_1778301987503_61r2x28ua",
+    "userId": "1776936153936",
+    "type": "home",
+    "label": "Address 2",
+    "addressLine1": "Ranka Colony Road",
+    "addressLine2": "Bilekahalli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560076",
+    "latitude": 12.9032219,
+    "longitude": 77.6021321,
+    "isDefault": false,
+    "createdAt": "2026-05-09T04:46:27.503Z",
+    "updatedAt": "2026-05-09T04:46:27.503Z"
   }
 ]
