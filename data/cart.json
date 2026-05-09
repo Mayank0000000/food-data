@@ -26,12 +26,12 @@
           "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
           "dishInfo": "Classic Italian pizza with fresh mozzarella, tomato sauce and basil leaves on a crispy thin crust."
         },
-        "quantity": 6,
+        "quantity": 5,
         "addedAt": "2026-05-09T12:15:52.912Z"
       }
     ],
-    "totalItems": 6,
-    "totalAmount": 1680,
-    "updatedAt": "2026-05-09T12:15:52.912Z"
+    "totalItems": 5,
+    "totalAmount": 1400,
+    "updatedAt": "2026-05-09T12:17:14.060Z"
   }
 ]
