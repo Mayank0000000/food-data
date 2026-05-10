@@ -2,36 +2,9 @@
   {
     "userId": "1776936153936",
     "userName": "mayank",
-    "items": [
-      {
-        "id": 1778329443025,
-        "menuItem": {
-          "id": 2,
-          "name": "Chicken Wrap",
-          "category": "Main Course",
-          "veg": false,
-          "price": 300,
-          "rating": [],
-          "feedback": [],
-          "prepTime": "35",
-          "discount": 0,
-          "description": {
-            "en": "Grilled chicken breast wrapped in soft tortilla with fresh lettuce, tomatoes, onions and our special sauce.",
-            "hi": "ताज़े सलाद, टमाटर, प्याज और हमारी विशेष सॉस के साथ नरम टॉर्टिला में लिपटा हुआ ग्रिल्ड चिकन स्तन।",
-            "kn": "ತಾಜಾ ಲೆಟ್ಯೂಸ್, ಟೊಮಾಟೋಗಳು, ಈರುಳ್ಳಿಗಳು ಮತ್ತು ನಮ್ಮ ವಿಶೇಷ ಸಾಸ್‌ನೊಂದಿಗೆ ಮೃದುವಾದ ಟಾರ್ಟಿಲ್ಲಾದಲ್ಲಿ ಸುತ್ತಿನಲ್ಲಿ ಸುತ್ತಿನಲ್ಲಿ ಸುಡುವ ಚಿಕನ್ ಸ್ತನ.",
-            "te": "తాజా లెట్యూస్, టమాటోలు, గడ్డాలు మరియు మా ప్రత్యేక సాస్‌తో సాఫ్ట్ టార్టిల్లాలో చుట్టబడిన గ్రిల్డ్ చికెన్ స్తనం."
-          },
-          "reviews": 0,
-          "available": true,
-          "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
-          "dishInfo": "Grilled chicken breast wrapped in soft tortilla with fresh lettuce, tomatoes, onions and our special sauce."
-        },
-        "quantity": 1,
-        "addedAt": "2026-05-09T12:24:03.025Z"
-      }
-    ],
-    "totalItems": 1,
-    "totalAmount": 300,
-    "updatedAt": "2026-05-09T12:24:03.025Z"
+    "items": [],
+    "totalItems": 0,
+    "totalAmount": 0,
+    "updatedAt": "2026-05-10T11:34:03.212Z"
   }
 ]
