@@ -498,5 +498,18 @@
     "id": "NOTIF_1778412876852_wmzgtfyqw",
     "isRead": false,
     "createdAt": "2026-05-10T11:34:36.852Z"
+  },
+  {
+    "userId": "1776936153936",
+    "type": "order",
+    "title": "Order Placed!",
+    "body": "Your order from Perfect Pairing has been placed successfully.",
+    "data": {
+      "orderId": "ORD_1778413302087_mzsp6k2d6",
+      "restaurantName": "Perfect Pairing"
+    },
+    "id": "NOTIF_1778413304024_5isjot0u8",
+    "isRead": false,
+    "createdAt": "2026-05-10T11:41:44.024Z"
   }
 ]
