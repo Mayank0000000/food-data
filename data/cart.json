@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "userId": "1776936153936",
+    "userName": "mayank",
+    "items": [
+      {
+        "id": 1778475624351,
+        "menuItem": {
+          "id": 1,
+          "name": "Salad Rice",
+          "category": "Main Course",
+          "veg": true,
+          "price": 250,
+          "rating": [],
+          "feedback": [],
+          "prepTime": "25",
+          "discount": 15,
+          "description": {
+            "en": "Fresh garden vegetables mixed with aromatic basmati rice, seasoned with herbs and spices for a healthy and flavorful meal.",
+            "hi": "ताज़े बाग़ के सब्ज़ियों को सुगंधित बास्मती चावल के साथ मिलाया गया, जड़ी-बूटियों और मसालों के साथ सीज़न किया गया स्वास्थ्यवर्धक और स्वादिष्ट भोजन के लिए।",
+            "kn": "ತಾಜಾ ತೋಟದ ತರಕಾರಿಗಳನ್ನು ಸುಗಂಧಿತ ಬಾಸ್ಮತಿ ಅಕ್ಕಿಯೊಂದಿಗೆ ಮಿಶ್ರಣ ಮಾಡಲಾಗಿದೆ, ಆರೋಗ್ಯಕರ ಮತ್ತು ರುಚಿಕರವಾದ ಭೋಜನಕ್ಕಾಗಿ ಔಷಧೀಯ ಸಸ್ಯಗಳು ಮತ್ತು ಮಸಾಲೆಗಳೊಂದಿಗೆ ಸಿಜನಿಂಗ್ ಮಾಡಲಾಗಿದೆ।",
+            "te": "తాజా తోట కూరగాయలను సుగంధ బాస్మతి వరితో కలిపి, ఆరోగ్యకరమైన మరియు రుచికరమైన భోజనం కోసం ఔషధ మొక్కలు మరియు మసాలాలతో సీజన్ చేయబడింది."
+          },
+          "reviews": 0,
+          "available": true,
+          "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+          "dishInfo": "Fresh garden vegetables mixed with aromatic basmati rice, seasoned with herbs and spices for a healthy and flavorful meal."
+        },
+        "quantity": 1,
+        "addedAt": "2026-05-11T05:00:24.351Z"
+      }
+    ],
+    "totalItems": 1,
+    "totalAmount": 250,
+    "updatedAt": "2026-05-11T05:00:24.351Z"
+  }
+]
