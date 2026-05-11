@@ -524,5 +524,18 @@
     "id": "NOTIF_1778475165607_3cg590kue",
     "isRead": false,
     "createdAt": "2026-05-11T04:52:45.607Z"
+  },
+  {
+    "userId": "1776936153936",
+    "type": "order",
+    "title": "Order Cancelled",
+    "body": "Order cancelled by user",
+    "data": {
+      "orderId": "ORD_1778475162185_rrk0sdc6j",
+      "reason": "Order cancelled by user"
+    },
+    "id": "NOTIF_1778475179880_0flsc3i3q",
+    "isRead": false,
+    "createdAt": "2026-05-11T04:52:59.880Z"
   }
 ]
