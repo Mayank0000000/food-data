@@ -2118,7 +2118,7 @@
     "finalAmount": 234,
     "couponCode": "FLAT100",
     "paymentMethod": "cod",
-    "status": "ordered",
+    "status": "delivered",
     "deliveryLocation": {
       "latitude": 12.9283431,
       "longitude": 77.6942315
